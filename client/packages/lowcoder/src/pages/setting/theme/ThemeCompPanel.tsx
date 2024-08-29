@@ -20,7 +20,7 @@ import {
   PropertySectionState,
   labelCss,
   sectionNames,
-} from "lowcoder-design";
+} from "lowcoder-design1";
 import { Card, Divider, Flex, Input, List } from "antd";
 import { genRandomKey } from "comps/utils/idGenerator";
 import dsl from "./detail/previewDsl";

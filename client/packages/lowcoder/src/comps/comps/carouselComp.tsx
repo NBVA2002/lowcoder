@@ -1,5 +1,5 @@
 import { default as Carousel } from "antd/es/carousel";
-import { Section, sectionNames } from "lowcoder-design";
+import { Section, sectionNames } from "lowcoder-design1";
 import { BoolControl } from "../controls/boolControl";
 import { UICompBuilder, withDefault } from "../generators";
 import { NameConfig, NameConfigHidden, withExposingConfigs } from "../generators/withExposing";

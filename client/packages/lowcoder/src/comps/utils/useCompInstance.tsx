@@ -7,7 +7,7 @@ import {
 } from "constants/perf";
 import { debounce } from "lodash";
 import log from "loglevel";
-import { CompAction, CompActionTypes, CompConstructor } from "lowcoder-core";
+import { CompAction, CompActionTypes, CompConstructor } from "lowcoder-core1";
 import { useEffect, useMemo, useState } from "react";
 import { PriorityQueue, Queue } from "typescript-collections";
 import { JSONValue } from "util/jsonTypes";

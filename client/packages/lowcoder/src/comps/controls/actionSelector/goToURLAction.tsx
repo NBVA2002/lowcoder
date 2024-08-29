@@ -1,6 +1,6 @@
 import { MultiCompBuilder } from "comps/generators/multi";
 import { withDefault } from "comps/generators/simpleGenerators";
-import { BranchDiv } from "lowcoder-design";
+import { BranchDiv } from "lowcoder-design1";
 import { KeyValue } from "types/common";
 import { BoolControl } from "comps/controls/boolControl";
 import { StringControl } from "comps/controls/codeControl";

@@ -1,7 +1,7 @@
 import React, { CSSProperties } from "react";
 import styled from "styled-components";
 
-import { CommonGrayLabel, EmptyDataIcon } from "lowcoder-design";
+import { CommonGrayLabel, EmptyDataIcon } from "lowcoder-design1";
 import { Layers } from "constants/Layers";
 import _ from "lodash";
 import { useResizeDetector } from "react-resize-detector";

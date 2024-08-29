@@ -6,7 +6,7 @@ import { AutoHeightControl } from "comps/controls/autoHeightControl";
 import { ChangeEventHandlerControl } from "comps/controls/eventHandlerControl";
 import { UICompBuilder, withDefault } from "comps/generators";
 import { NameConfig, NameConfigHidden, withExposingConfigs } from "comps/generators/withExposing";
-import { Section, sectionNames } from "lowcoder-design";
+import { Section, sectionNames } from "lowcoder-design1";
 import React, { Suspense, useEffect, useRef, useState } from "react";
 import type ReactQuill from "react-quill";
 import { useDebounce } from "react-use";

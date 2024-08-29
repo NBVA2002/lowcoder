@@ -102,7 +102,7 @@ import {
   TurnstileCaptchaCompIconSmall,
   PivotTableCompIconSmall,
   GraphChartCompIconSmall,
-} from "lowcoder-design";
+} from "lowcoder-design1";
 
 export const CompStateIcon: {
   [key in UICompType]: JSX.Element;

@@ -16,7 +16,7 @@ import {
   useSelectInputValidate,
 } from "./selectInputConstants";
 import { useContext, useEffect, useRef } from "react";
-import { RecordConstructorToView } from "lowcoder-core";
+import { RecordConstructorToView } from "lowcoder-core1";
 import { fixOldInputCompData } from "../textInputComp/textInputConstants";
 import { migrateOldData, withDefault } from "comps/generators/simpleGenerators";
 import { useMergeCompStyles } from "@lowcoder-ee/util/hooks";

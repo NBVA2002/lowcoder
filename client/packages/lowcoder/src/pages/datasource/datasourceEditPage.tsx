@@ -2,7 +2,7 @@ import styled from "styled-components";
 import history from "../../util/history";
 import { default as Button } from "antd/es/button";
 import { useCallback, useMemo, useState } from "react";
-import { CopyTextButton, DocIcon, PackUpIcon, TacoButton } from "lowcoder-design";
+import { CopyTextButton, DocIcon, PackUpIcon, TacoButton } from "lowcoder-design1";
 import { useDatasourceForm } from "./form/useDatasourceForm";
 import { useParams } from "react-router-dom";
 import { DATASOURCE_URL } from "../../constants/routesURL";

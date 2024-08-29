@@ -7,7 +7,7 @@ import Tooltip from "antd/es/tooltip";
 import { useDispatch, useSelector } from "react-redux";
 import { useState } from "react";
 import { styled } from "styled-components";
-import { AddIcon, CustomModal, EditPopover, TacoButton, messageInstance } from "lowcoder-design";
+import { AddIcon, CustomModal, EditPopover, TacoButton, messageInstance } from "lowcoder-design1";
 import { trans } from "i18n";
 import { PopoverIcon } from "pages/setting/permission/styledComponents";
 import CreateApiKeyModal from "./CreateApiKeyModal";

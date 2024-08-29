@@ -20,10 +20,10 @@ import {
   NameConfigRequired,
   withExposingConfigs,
 } from "comps/generators/withExposing";
-import { Section, sectionNames, ValueFromOption } from "lowcoder-design";
+import { Section, sectionNames, ValueFromOption } from "lowcoder-design1";
 import { ReactNode, useEffect, useRef, useState } from "react";
 import styled, { css } from "styled-components";
-import { RecordConstructorToView } from "lowcoder-core";
+import { RecordConstructorToView } from "lowcoder-core1";
 import { InputEventHandlerControl } from "../../controls/eventHandlerControl";
 import { UICompBuilder, withDefault } from "../../generators";
 import { formDataChildren, FormDataPropertyView } from "../formComp/formDataConstants";

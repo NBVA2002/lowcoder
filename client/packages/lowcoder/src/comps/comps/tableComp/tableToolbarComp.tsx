@@ -13,7 +13,7 @@ import { genRandomKey } from "comps/utils/idGenerator";
 import { ThemeContext } from "comps/utils/themeContext";
 import { trans } from "i18n";
 import _, { isNil } from "lodash";
-import { changeChildAction, ConstructorToView } from "lowcoder-core";
+import { changeChildAction, ConstructorToView } from "lowcoder-core1";
 import {
   AlignBottom,
   AlignClose,
@@ -33,7 +33,7 @@ import {
   TacoButton,
   TacoInput,
   ValueFromOption,
-} from "lowcoder-design";
+} from "lowcoder-design1";
 import React, { useContext, useEffect, useMemo, useRef, useState } from "react";
 import styled, { css } from "styled-components";
 import { JSONValue } from "util/jsonTypes";

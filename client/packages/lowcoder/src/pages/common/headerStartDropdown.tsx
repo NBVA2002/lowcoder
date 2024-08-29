@@ -8,7 +8,7 @@ import {
   PackUpIcon,
   TextWrapper,
   ModuleIcon,
-} from "lowcoder-design";
+} from "lowcoder-design1";
 import { trans, transToNode } from "i18n";
 import { exportApplicationAsJSONFile } from "pages/ApplicationV2/components/AppImport";
 import { useContext, useMemo, useState } from "react";

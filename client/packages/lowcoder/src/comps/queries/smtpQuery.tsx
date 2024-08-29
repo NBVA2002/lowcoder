@@ -6,7 +6,7 @@ import {
 } from "../controls/paramsControl";
 import { withTypeAndChildrenAbstract } from "../generators/withType";
 import { withPropertyViewFn } from "../generators";
-import { DispatchType, MultiBaseComp } from "lowcoder-core";
+import { DispatchType, MultiBaseComp } from "lowcoder-core1";
 import { isObject } from "lodash";
 import { FunctionProperty, toQueryView } from "./queryCompUtils";
 import { Property } from "../../types/entities/common";

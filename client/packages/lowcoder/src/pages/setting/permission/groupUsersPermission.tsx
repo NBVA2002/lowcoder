@@ -1,6 +1,6 @@
 import { GroupRoleInfo, GroupUser, OrgGroup, TacoRoles } from "constants/orgConstants";
 import { User } from "constants/userConstants";
-import { AddIcon, ArrowIcon, CustomSelect, PackUpIcon, SuperUserIcon } from "lowcoder-design";
+import { AddIcon, ArrowIcon, CustomSelect, PackUpIcon, SuperUserIcon } from "lowcoder-design1";
 import { trans } from "i18n";
 import ProfileImage from "pages/common/profileImage";
 import React, { useEffect, useMemo } from "react";

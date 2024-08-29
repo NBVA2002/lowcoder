@@ -21,7 +21,7 @@ import {
   PropertySectionContextType,
   PropertySectionState,
   labelCss,
-} from "lowcoder-design";
+} from "lowcoder-design1";
 import { TransparentImg } from "../../../util/commonUtils";
 import { RightContext } from "./rightContext";
 

@@ -2,7 +2,7 @@ import { PopupCard } from "lowcoder-design/src/components/popupCard";
 import { Input } from "lowcoder-design/src/components/Input";
 import { EditorContext } from "comps/editorState";
 import { valueComp } from "comps/generators";
-import { ControlPropertyViewWrapper } from "lowcoder-design";
+import { ControlPropertyViewWrapper } from "lowcoder-design1";
 import { trans } from "i18n";
 import { ReactNode, useContext, useRef, useState } from "react";
 import { ControlParams } from "./controlParams";

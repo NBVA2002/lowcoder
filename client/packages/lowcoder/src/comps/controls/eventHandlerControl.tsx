@@ -3,7 +3,7 @@ import { CustomListAction, list } from "comps/generators/list";
 import { simpleMultiComp } from "comps/generators/multi";
 import { trans } from "i18n";
 import _ from "lodash";
-import { DispatchType } from "lowcoder-core";
+import { DispatchType } from "lowcoder-core1";
 import {
   AddEventIcon,
   AddLine,
@@ -19,7 +19,7 @@ import {
   OptionType,
   QueryConfigItemWrapper,
   ValueFromOption,
-} from "lowcoder-design";
+} from "lowcoder-design1";
 import { Fragment, ReactNode, useContext, useEffect, useState} from "react";
 import { memo } from "util/cacheUtils";
 import { EditorContext } from "../editorState";

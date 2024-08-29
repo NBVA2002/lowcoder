@@ -1,7 +1,7 @@
 import { EmptyContent } from "components/EmptyContent";
 import { HelpText } from "components/HelpText";
 import { GreyTextColor } from "constants/style";
-import { CustomModal, CustomSelect, TacoButton } from "lowcoder-design";
+import { CustomModal, CustomSelect, TacoButton } from "lowcoder-design1";
 import React, { lazy, useEffect, useState } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { fetchCommonSettings, setCommonSettings } from "redux/reduxActions/commonSettingsActions";
@@ -23,7 +23,7 @@ import { JSLibraryModal } from "components/JSLibraryModal";
 import { JSLibraryTree } from "components/JSLibraryTree";
 import { getGlobalSettings } from "comps/utils/globalSettings";
 import { fetchJSLibrary } from "util/jsLibraryUtils";
-import { evalFunc } from "lowcoder-core";
+import { evalFunc } from "lowcoder-core1";
 import { messageInstance } from "lowcoder-design/src/components/GlobalInstances";
 import { default as Switch } from "antd/es/switch";
 

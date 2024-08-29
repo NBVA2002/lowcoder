@@ -1,7 +1,7 @@
 import { StringControl } from "comps/controls/codeControl";
 import { dropdownControl } from "comps/controls/dropdownControl";
 import { MultiCompBuilder } from "comps/generators/multi";
-import { BranchDiv } from "lowcoder-design";
+import { BranchDiv } from "lowcoder-design1";
 import { trans } from "i18n";
 import { millisecondsControl } from "../millisecondControl";
 import { messageInstance } from "lowcoder-design/src/components/GlobalInstances";

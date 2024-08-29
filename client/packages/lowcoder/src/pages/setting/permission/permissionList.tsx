@@ -1,7 +1,7 @@
 import { default as Typography } from "antd/es/typography";
 import OrgApi from "api/orgApi";
 import { buildGroupId } from "constants/routesURL";
-import { AddIcon, CustomModal, EditPopover } from "lowcoder-design";
+import { AddIcon, CustomModal, EditPopover } from "lowcoder-design1";
 import { useEffect, useState } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { fetchGroupsAction, updateGroupAction } from "redux/reduxActions/orgActions";
@@ -18,7 +18,7 @@ import {
 } from "./styledComponents";
 import {
   MembersIcon,
-} from "lowcoder-design";
+} from "lowcoder-design1";
 import styled from "styled-components";
 import { trans } from "i18n";
 import { getOrgGroups } from "redux/selectors/orgSelectors";

@@ -1,5 +1,5 @@
 import React from "react";
-import { DatasourceForm, FormInputItem, FormSection } from "lowcoder-design";
+import { DatasourceForm, FormInputItem, FormSection } from "lowcoder-design1";
 import { EsConfig } from "../../../api/datasourceApi";
 import { DatasourceFormProps } from "./datasourceFormRegistry";
 import {

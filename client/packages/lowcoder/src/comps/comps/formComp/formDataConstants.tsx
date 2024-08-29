@@ -1,7 +1,7 @@
-import { RecordConstructorToComp } from "lowcoder-core";
+import { RecordConstructorToComp } from "lowcoder-core1";
 import { StringControl } from "comps/controls/codeControl";
 import { CompNameContext, EditorContext } from "comps/editorState";
-import { Section } from "lowcoder-design";
+import { Section } from "lowcoder-design1";
 import { ReactNode } from "react";
 import { trans } from "i18n";
 

@@ -1,5 +1,5 @@
 import { default as Table } from "antd/es/table";
-import { Comp } from "lowcoder-core";
+import { Comp } from "lowcoder-core1";
 import { UICompType } from "comps/uiCompRegistry";
 import { EventConfigsType } from "comps/controls/eventHandlerControl";
 import { evalAndReduceWithExposing } from "comps/utils";

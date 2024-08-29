@@ -1,7 +1,7 @@
 import { HomeRes } from "./HomeLayout";
 import { HomeResTypeEnum } from "../../types/homeRes";
 import { exportApplicationAsJSONFile } from "./components/AppImport";
-import { CustomModal, EditPopover, EditPopoverItemType, PointIcon } from "lowcoder-design";
+import { CustomModal, EditPopover, EditPopoverItemType, PointIcon } from "lowcoder-design1";
 import { HomeResInfo } from "../../util/homeResUtils";
 import { recycleApplication } from "../../redux/reduxActions/applicationActions";
 import { deleteFolder } from "../../redux/reduxActions/folderActions";

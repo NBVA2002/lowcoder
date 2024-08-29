@@ -1,5 +1,5 @@
-import { SimpleComp } from "lowcoder-core";
-import { ControlPropertyViewWrapper, Input } from "lowcoder-design";
+import { SimpleComp } from "lowcoder-core1";
+import { ControlPropertyViewWrapper, Input } from "lowcoder-design1";
 import { ReactNode } from "react";
 import { ControlParams } from "./controlParams";
 

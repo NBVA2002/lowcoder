@@ -12,7 +12,7 @@ import {
   EditPopoverProps,
   PointIcon,
   SimplePopover,
-} from "lowcoder-design";
+} from "lowcoder-design1";
 import { trans } from "i18n";
 import { Children, PropsWithChildren, ReactNode, useState } from "react";
 import styled from "styled-components";

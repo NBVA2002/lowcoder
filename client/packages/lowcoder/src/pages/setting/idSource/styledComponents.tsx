@@ -3,7 +3,7 @@ import { Table } from "components/Table";
 import { default as Button } from "antd/es/button";
 import { default as Checkbox} from "antd/es/checkbox";
 import { default as Form } from "antd/es/form";
-import { UnderlineCss } from "lowcoder-design";
+import { UnderlineCss } from "lowcoder-design1";
 import Steps from "antd/es/steps";
 
 const btnLoadingCss = css`

@@ -3,7 +3,7 @@ import {
   ThirdPartyAuthGoal,
   ThirdPartyConfigType,
 } from "constants/authConstants";
-import { WhiteLoading } from "lowcoder-design";
+import { WhiteLoading } from "lowcoder-design1";
 import history from "util/history";
 import { LoginLogoStyle, LoginLabelStyle, StyledLoginButton } from "pages/userAuth/authComponents";
 import { useSelector } from "react-redux";

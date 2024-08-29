@@ -14,7 +14,7 @@ import {
   UnfoldIcon,
   UnShow,
   TacoButton,
-} from "lowcoder-design";
+} from "lowcoder-design1";
 import React, { ReactNode, useCallback, useContext, useMemo, useState } from "react";
 import { hookCompCategory } from "comps/hooks/hookCompTypes";
 import _ from "lodash";

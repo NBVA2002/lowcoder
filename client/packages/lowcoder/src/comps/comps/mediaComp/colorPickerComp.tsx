@@ -1,4 +1,4 @@
-import { Section, sectionNames } from "lowcoder-design";
+import { Section, sectionNames } from "lowcoder-design1";
 import { BoolControl } from "comps/controls/boolControl";
 import { styleControl } from "comps/controls/styleControl";
 import { ColorPickerStyle, ColorPickerStyleType } from "comps/controls/styleControlConstants";

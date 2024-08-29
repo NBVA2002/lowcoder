@@ -1,4 +1,4 @@
-import { getI18nObjects, Translator } from "lowcoder-core";
+import { getI18nObjects, Translator } from "lowcoder-core1";
 import * as localeData from "./locales";
 import { I18nObjects } from "./locales/types";
 import { languagesMetadata } from "./languagesMeta";

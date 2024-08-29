@@ -1,7 +1,7 @@
 import { Route, Switch, useLocation } from "react-router-dom";
 import { default as Layout } from "antd/es/layout";
 import { AppHeader } from "pages/common/header";
-import { Menu } from "lowcoder-design";
+import { Menu } from "lowcoder-design1";
 import history from "util/history";
 import styled from "styled-components";
 import * as React from "react";

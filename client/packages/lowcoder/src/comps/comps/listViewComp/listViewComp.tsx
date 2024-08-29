@@ -28,7 +28,7 @@ import {
   Node,
   withFunction,
   WrapContextNodeV2,
-} from "lowcoder-core";
+} from "lowcoder-core1";
 import { JSONValue } from "util/jsonTypes";
 import { depthEqual, lastValueIfEqual, shallowEqual } from "util/objectUtils";
 import { CompTree, getAllCompItems, IContainer } from "../containerBase";

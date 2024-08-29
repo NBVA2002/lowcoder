@@ -20,7 +20,7 @@ import { loadAuthSearchParams } from "pages/userAuth/authUtils";
 import { ThemeContext } from "@lowcoder-ee/comps/utils/themeContext";
 import { CompTypeContext } from "@lowcoder-ee/comps/utils/compTypeContext";
 import { setInitialCompStyles } from "@lowcoder-ee/comps/utils/themeUtil";
-import { CompAction, changeChildAction } from "lowcoder-core";
+import { CompAction, changeChildAction } from "lowcoder-core1";
 
 export const ForceViewModeContext = React.createContext<boolean>(false);
 

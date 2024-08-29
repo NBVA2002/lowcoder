@@ -1,8 +1,8 @@
 import { ThemeDetail, ThemeType } from "api/commonSettingApi";
-import { RecordConstructorToComp } from "lowcoder-core";
+import { RecordConstructorToComp } from "lowcoder-core1";
 import { dropdownInputSimpleControl } from "comps/controls/dropdownInputSimpleControl";
 import { MultiCompBuilder, valueComp, withDefault } from "comps/generators";
-import { AddIcon, Dropdown } from "lowcoder-design";
+import { AddIcon, Dropdown } from "lowcoder-design1";
 import { EllipsisSpan } from "pages/setting/theme/styledComponents";
 import { useEffect, useState } from "react";
 import { useSelector } from "react-redux";

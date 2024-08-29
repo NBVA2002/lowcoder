@@ -30,7 +30,7 @@ import { validateResponse } from "api/apiUtils";
 import { ServerAuthTypeInfo } from "@lowcoder-ee/constants/authConstants";
 import { GeneralLoginIcon } from "assets/icons";
 import { FreeTypes } from "pages/setting/idSource/idSourceConstants";
-import { messageInstance, AddIcon } from "lowcoder-design";
+import { messageInstance, AddIcon } from "lowcoder-design1";
 import { currentOrgAdmin } from "../../../util/permissionUtils";
 import CreateModal from "./createModal";
 import _ from "lodash";

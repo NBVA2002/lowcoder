@@ -4,7 +4,7 @@ import {
   CommonTextLabel,
   CustomSelect,
   TacoButton,
-} from "lowcoder-design";
+} from "lowcoder-design1";
 import { useEffect, useRef, useState } from "react";
 import styled from "styled-components";
 import ProfileImage from "pages/common/profileImage";

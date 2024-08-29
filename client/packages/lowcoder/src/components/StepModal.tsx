@@ -1,5 +1,5 @@
-import { CustomModal } from "lowcoder-design";
-import { CustomModalProps } from "lowcoder-design";
+import { CustomModal } from "lowcoder-design1";
+import { CustomModalProps } from "lowcoder-design1";
 import { ReactNode, useState } from "react";
 
 interface StepRenderProps {

@@ -21,7 +21,7 @@ import { BottomResTypeEnum } from "../../types/bottomRes";
 import { useCompInstance } from "../../comps/utils/useCompInstance";
 import { QueryLibraryComp } from "../../comps/comps/queryLibrary/queryLibraryComp";
 import { useSearchParam, useThrottle } from "react-use";
-import { Comp } from "lowcoder-core";
+import { Comp } from "lowcoder-core1";
 import { LibraryQuery } from "../../api/queryLibraryApi";
 import { NameGenerator } from "../../comps/utils";
 import { QueryLibraryHistoryView } from "./QueryLibraryHistoryView";
@@ -33,7 +33,7 @@ import {
   FormRadioItem,
   FormSection,
   TacoButton,
-} from "lowcoder-design";
+} from "lowcoder-design1";
 import { CheckboxOptionType } from "antd/es/checkbox/Group";
 import { trans } from "i18n";
 import { getDataSource } from "../../redux/selectors/datasourceSelectors";

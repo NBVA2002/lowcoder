@@ -1,7 +1,7 @@
 import { useDispatch, useSelector } from "react-redux";
 import styled from "styled-components";
-import { CloseIcon } from "lowcoder-design";
-import { AppSnapshotIcon } from "lowcoder-design";
+import { CloseIcon } from "lowcoder-design1";
+import { AppSnapshotIcon } from "lowcoder-design1";
 import {
   fetchSnapshotDslAction,
   fetchSnapshotsAction,
@@ -18,12 +18,12 @@ import {
   isAppSnapshotsFetching,
 } from "redux/selectors/appSnapshotSelector";
 import { default as Skeleton } from "antd/es/skeleton";
-import { TacoPagination } from "lowcoder-design";
+import { TacoPagination } from "lowcoder-design1";
 import { AppSnapshotContext, AppSnapshotList } from "constants/applicationConstants";
-import { ExtraActionType } from "lowcoder-core";
+import { ExtraActionType } from "lowcoder-core1";
 import { formatString } from "util/stringUtils";
 import { getUser } from "redux/selectors/usersSelectors";
-import { ScrollBar } from "lowcoder-design";
+import { ScrollBar } from "lowcoder-design1";
 import { RightPanelWrapper } from "pages/common/styledComponent";
 import { Layers } from "constants/Layers";
 import { useMount } from "react-use";

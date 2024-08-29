@@ -1,12 +1,12 @@
 import { RightPanelWrapper } from "pages/common/styledComponent";
-import { Tabs } from "lowcoder-design";
+import { Tabs } from "lowcoder-design1";
 import PropertyView from "./PropertyView";
 import InsertView from "./InsertView";
 import type UIComp from "comps/comps/uiComp";
 import type { UiLayoutType } from "comps/comps/uiComp";
 import { useEffect, useState } from "react";
-import { AttributeIcon } from "lowcoder-design";
-import { InsertIcon } from "lowcoder-design";
+import { AttributeIcon } from "lowcoder-design1";
+import { InsertIcon } from "lowcoder-design1";
 import { trans } from "i18n";
 import { isAggregationApp } from "util/appUtils";
 

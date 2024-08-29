@@ -8,7 +8,7 @@ import {
   ScrollBar,
   UnfoldIcon,
   LeftShow,
-} from "lowcoder-design";
+} from "lowcoder-design1";
 import React, { useCallback, useContext, useMemo, useState, useEffect, useRef } from "react";
 import _, { get, set } from "lodash";
 import styled from "styled-components";

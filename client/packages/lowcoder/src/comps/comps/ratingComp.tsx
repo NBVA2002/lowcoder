@@ -1,6 +1,6 @@
 import { default as Rate } from "antd/es/rate";
 import styled, { css } from "styled-components";
-import { Section, sectionNames } from "lowcoder-design";
+import { Section, sectionNames } from "lowcoder-design1";
 import { NumberControl, BoolCodeControl } from "../controls/codeControl";
 import { BoolControl } from "../controls/boolControl";
 import { changeEvent, eventHandlerControl } from "../controls/eventHandlerControl";

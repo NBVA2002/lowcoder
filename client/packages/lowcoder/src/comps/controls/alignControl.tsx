@@ -1,5 +1,5 @@
-import { ValueFromOption } from "lowcoder-design";
-import { AlignCenter, AlignJustify, AlignLeft, AlignRight } from "lowcoder-design";
+import { ValueFromOption } from "lowcoder-design1";
+import { AlignCenter, AlignJustify, AlignLeft, AlignRight } from "lowcoder-design1";
 import { dropdownControl } from "./dropdownControl";
 
 const AlignOptions = [

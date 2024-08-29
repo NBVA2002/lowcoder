@@ -12,7 +12,7 @@ import {
   genHoverColor,
 } from "lowcoder-sdk";
 import styled, { css } from "styled-components";
-// import { genActiveColor, genHoverColor } from "lowcoder-design";
+// import { genActiveColor, genHoverColor } from "lowcoder-design1";
 
 export function getButtonStyle(buttonStyle: any) {
   const hoverColor = genHoverColor(buttonStyle.background);

@@ -7,7 +7,7 @@ import { DropdownStyle, DropdownStyleType } from "comps/controls/styleControlCon
 import { withDefault } from "comps/generators";
 import { UICompBuilder } from "comps/generators/uiCompBuilder";
 import { disabledPropertyView, hiddenPropertyView } from "comps/utils/propertyUtils";
-import { Section, sectionNames } from "lowcoder-design";
+import { Section, sectionNames } from "lowcoder-design1";
 import { trans } from "i18n";
 import React, { ReactElement, useContext, useEffect } from "react";
 import { EditorContext } from "comps/editorState";

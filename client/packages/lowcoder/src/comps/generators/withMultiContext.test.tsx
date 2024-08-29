@@ -1,6 +1,6 @@
 import { NumberControl, StringControl } from "comps/controls/codeControl";
 import { evalAndReduce } from "comps/utils";
-import { wrapDispatch } from "lowcoder-core";
+import { wrapDispatch } from "lowcoder-core1";
 import { MultiCompBuilder } from "./multi";
 import { MAP_KEY, withMultiContext } from "./withMultiContext";
 

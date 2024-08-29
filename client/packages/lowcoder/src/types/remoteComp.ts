@@ -1,5 +1,5 @@
 import { UICompManifest } from "comps/uiCompRegistry";
-import { CompConstructor } from "lowcoder-core";
+import { CompConstructor } from "lowcoder-core1";
 
 export type RemoteCompSource = "npm" | "bundle";
 export interface LowcoderCompMeta extends Omit<UICompManifest, "comp" | "icon"> {

@@ -7,7 +7,7 @@ import {
   executeQueryAction,
   multiChangeAction,
   wrapActionExtraInfo,
-} from "lowcoder-core";
+} from "lowcoder-core1";
 import { addMapChildAction } from "comps/generators/sameTypeMap";
 import { genQueryId, genRandomKey } from "comps/utils/idGenerator";
 import { useDispatch, useSelector } from "react-redux";
@@ -22,7 +22,7 @@ import {
   tableDragClassName,
   UserGuideLocationState,
 } from "./tutorialsConstant";
-import { TooltipCodeBlock, TooltipLink, TutorialsTooltip } from "lowcoder-design";
+import { TooltipCodeBlock, TooltipLink, TutorialsTooltip } from "lowcoder-design1";
 import { markUserStatus } from "redux/reduxActions/userActions";
 import { useHistory } from "react-router";
 import { defaultLayout, GridItemDataType } from "comps/comps/gridItemComp";

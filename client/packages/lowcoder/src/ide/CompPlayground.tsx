@@ -1,7 +1,7 @@
 import React, { useState, useMemo, ChangeEvent } from "react";
 import ReactJson from "react-json-view";
 import { UICompLayoutInfo } from "comps/uiCompRegistry";
-import { Comp, customAction } from "lowcoder-core";
+import { Comp, customAction } from "lowcoder-core1";
 import { default as Button } from "antd/es/button";
 import { default as Space } from "antd/es/space";
 import { default as Input } from "antd/es/input";

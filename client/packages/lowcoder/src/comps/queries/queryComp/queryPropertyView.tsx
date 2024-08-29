@@ -10,7 +10,7 @@ import {
 import { PageType } from "constants/pageConstants";
 import { trans } from "i18n";
 import { includes, mapValues } from "lodash";
-import { deferAction, executeQueryAction, wrapActionExtraInfo } from "lowcoder-core";
+import { deferAction, executeQueryAction, wrapActionExtraInfo } from "lowcoder-core1";
 import {
   CustomModal,
   Dropdown,
@@ -20,7 +20,7 @@ import {
   QueryPropertyViewWrapper,
   QuerySectionWrapper,
   TriggerTypeStyled,
-} from "lowcoder-design";
+} from "lowcoder-design1";
 import { BottomTabs } from "pages/editor/bottom/BottomTabs";
 import { useContext, useMemo } from "react";
 import { useSelector } from "react-redux";

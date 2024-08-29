@@ -6,7 +6,7 @@ import {
   NameConfigRequired,
   withExposingConfigs,
 } from "comps/generators/withExposing";
-import { Section, sectionNames } from "lowcoder-design";
+import { Section, sectionNames } from "lowcoder-design1";
 import { BoolControl } from "../../controls/boolControl";
 import { dropdownControl } from "../../controls/dropdownControl";
 import { LabelControl } from "../../controls/labelControl";

@@ -15,7 +15,7 @@ import {
   LeftStateIcon,
   LeftLayersIcon,
   ScrollBar,
-} from "lowcoder-design";
+} from "lowcoder-design1";
 import { useTemplateViewMode } from "util/hooks";
 import Header, {
   type PanelStatus,

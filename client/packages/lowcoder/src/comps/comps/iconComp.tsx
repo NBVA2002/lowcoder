@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState } from "react";
 import styled, { css } from "styled-components";
-import { RecordConstructorToView } from "lowcoder-core";
+import { RecordConstructorToView } from "lowcoder-core1";
 import { styleControl } from "comps/controls/styleControl";
 import _ from "lodash";
 import {
@@ -17,7 +17,7 @@ import {
   NameConfigHidden,
   withExposingConfigs,
 } from "comps/generators/withExposing";
-import { Section, sectionNames } from "lowcoder-design";
+import { Section, sectionNames } from "lowcoder-design1";
 import { hiddenPropertyView } from "comps/utils/propertyUtils";
 import { trans } from "i18n";
 import { NumberControl } from "comps/controls/codeControl";

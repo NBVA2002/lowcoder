@@ -13,7 +13,7 @@ import {
   DropDownSubMenu,
   EditIcon,
   PackUpIcon,
-} from "lowcoder-design";
+} from "lowcoder-design1";
 import ProfileSettingModal from "pages/setting/profile";
 import React, { useMemo } from "react";
 import { useDispatch, useSelector } from "react-redux";

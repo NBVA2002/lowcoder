@@ -17,7 +17,7 @@ import {
   unwrapChildAction,
   wrapChildAction,
   wrapDispatch,
-} from "lowcoder-core";
+} from "lowcoder-core1";
 import { ReactNode } from "react";
 import { JSONValue } from "util/jsonTypes";
 import { setFieldsNoTypeCheck } from "util/objectUtils";

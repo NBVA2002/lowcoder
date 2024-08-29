@@ -1,6 +1,6 @@
 import { useContext, useEffect, useState } from "react";
 import styled, { css } from "styled-components";
-import { NofileIcon } from "lowcoder-design";
+import { NofileIcon } from "lowcoder-design1";
 import { EmptyTab } from "./BottomTabs";
 import { CompNameContext, EditorContext } from "comps/editorState";
 import { BottomSidebar } from "./BottomSidebar";

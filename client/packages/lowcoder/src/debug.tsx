@@ -1,6 +1,6 @@
 import { default as Layout } from "antd/es/layout";
 import { default as Menu } from "antd/es/menu";
-import { Comp } from "lowcoder-core";
+import { Comp } from "lowcoder-core1";
 import { InputComp } from "comps/comps/textInputComp/inputComp";
 import { ButtonComp } from "comps/comps/buttonComp/buttonComp";
 import { NavLayout } from "comps/comps/layout/navLayout";

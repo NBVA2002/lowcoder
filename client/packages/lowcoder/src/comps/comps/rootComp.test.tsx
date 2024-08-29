@@ -1,4 +1,4 @@
-import { Comp } from "lowcoder-core";
+import { Comp } from "lowcoder-core1";
 import { evalAndReduce } from "comps/utils";
 
 // This file contains the trials that all comps need to pass

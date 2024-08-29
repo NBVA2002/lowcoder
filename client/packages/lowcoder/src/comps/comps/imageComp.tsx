@@ -1,5 +1,5 @@
 import styled, { css } from "styled-components";
-import { Section, sectionNames } from "lowcoder-design";
+import { Section, sectionNames } from "lowcoder-design1";
 import {
   clickEvent,
   eventHandlerControl,
@@ -11,7 +11,7 @@ import {
   NameConfigHidden,
   withExposingConfigs,
 } from "../generators/withExposing";
-import { RecordConstructorToView } from "lowcoder-core";
+import { RecordConstructorToView } from "lowcoder-core1";
 import { useEffect, useRef, useState } from "react";
 import _ from "lodash";
 import ReactResizeDetector from "react-resize-detector";

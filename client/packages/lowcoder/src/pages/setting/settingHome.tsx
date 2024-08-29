@@ -17,7 +17,7 @@ import {
   ThemeIcon,
   WorkspacesIcon,
   SubscriptionIcon,
- } from "lowcoder-design";
+ } from "lowcoder-design1";
 import { useSelector } from "react-redux";
 import { getUser } from "redux/selectors/usersSelectors";
 import history from "util/history";

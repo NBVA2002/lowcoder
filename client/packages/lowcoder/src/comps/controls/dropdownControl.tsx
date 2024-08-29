@@ -1,4 +1,4 @@
-import { SimpleAbstractComp } from "lowcoder-core";
+import { SimpleAbstractComp } from "lowcoder-core1";
 import {
   AlignBottom,
   AlignCenter,
@@ -10,7 +10,7 @@ import {
   Dropdown,
   OptionsType,
   ValueFromOption,
-} from "lowcoder-design";
+} from "lowcoder-design1";
 import { ReactNode, useEffect, useState } from "react";
 import { ControlParams } from "./controlParams";
 

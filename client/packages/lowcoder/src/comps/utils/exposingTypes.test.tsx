@@ -1,4 +1,4 @@
-import { fromUnevaledValue } from "lowcoder-core";
+import { fromUnevaledValue } from "lowcoder-core1";
 import { exposingDataForAutoComplete, NameAndExposingInfo } from "./exposingTypes";
 
 describe("exposingDataForAutoComplete", () => {

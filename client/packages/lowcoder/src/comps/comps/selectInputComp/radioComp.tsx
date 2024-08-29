@@ -9,7 +9,7 @@ import {
   SelectInputInvalidConfig,
   useSelectInputValidate,
 } from "./selectInputConstants";
-import { EllipsisTextCss, ValueFromOption } from "lowcoder-design";
+import { EllipsisTextCss, ValueFromOption } from "lowcoder-design1";
 import { trans } from "i18n";
 import { fixOldInputCompData } from "../textInputComp/textInputConstants";
 import { migrateOldData } from "comps/generators/simpleGenerators";

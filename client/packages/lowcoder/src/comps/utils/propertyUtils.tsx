@@ -7,7 +7,7 @@ import {
   StringControl,
 } from "comps/controls/codeControl";
 import { language, trans } from "i18n";
-import { Comp } from "lowcoder-core";
+import { Comp } from "lowcoder-core1";
 import { ReactNode } from "react";
 
 export function isCompWithPropertyView<C extends Comp<any> = Comp<any>>(

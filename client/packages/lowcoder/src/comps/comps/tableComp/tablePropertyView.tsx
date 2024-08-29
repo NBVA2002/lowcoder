@@ -5,7 +5,7 @@ import {
 } from "comps/comps/tableComp/column/tableColumnComp";
 import { hiddenPropertyView, loadingPropertyView } from "comps/utils/propertyUtils";
 import { trans } from "i18n";
-import { changeValueAction, deferAction, MultiBaseComp, wrapChildAction } from "lowcoder-core";
+import { changeValueAction, deferAction, MultiBaseComp, wrapChildAction } from "lowcoder-core1";
 import {
   BluePlusIcon,
   CheckBox,
@@ -24,7 +24,7 @@ import {
   sectionNames,
   TextLabel,
   ToolTipLabel,
-} from "lowcoder-design";
+} from "lowcoder-design1";
 import { tableDataDivClassName } from "pages/tutorials/tutorialsConstant";
 import styled, { css } from "styled-components";
 import { getSelectedRowKeys } from "./selectionControl";
@@ -33,7 +33,7 @@ import React, { useMemo, useState } from "react";
 import { GreyTextColor } from "constants/style";
 import { alignOptions } from "comps/controls/dropdownControl";
 import { ColumnTypeCompMap } from "comps/comps/tableComp/column/columnTypeComp";
-import { changeChildAction } from "lowcoder-core";
+import { changeChildAction } from "lowcoder-core1";
 
 const InsertDiv = styled.div`
   display: flex;

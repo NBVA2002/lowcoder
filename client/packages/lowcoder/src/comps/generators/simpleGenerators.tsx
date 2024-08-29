@@ -9,8 +9,8 @@ import {
   CompParams,
   ConstructorToDataType,
   SimpleComp,
-} from "lowcoder-core";
-import { ControlPropertyViewWrapper } from "lowcoder-design";
+} from "lowcoder-core1";
+import { ControlPropertyViewWrapper } from "lowcoder-design1";
 import { ReactNode } from "react";
 import { JSONValue } from "util/jsonTypes";
 

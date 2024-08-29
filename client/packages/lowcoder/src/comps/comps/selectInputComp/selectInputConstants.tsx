@@ -1,9 +1,9 @@
-import { Section, sectionNames } from "lowcoder-design";
+import { Section, sectionNames } from "lowcoder-design1";
 import { ChildrenTypeToDepsKeys, depsConfig } from "../../generators/withExposing";
 import { BoolControl } from "../../controls/boolControl";
 import { CustomRuleControl } from "../../controls/codeControl";
 import { isEmpty } from "lodash";
-import { ConstructorToComp, RecordConstructorToComp } from "lowcoder-core";
+import { ConstructorToComp, RecordConstructorToComp } from "lowcoder-core1";
 import {
   arrayStringExposingStateControl,
   jsonExposingStateControl,

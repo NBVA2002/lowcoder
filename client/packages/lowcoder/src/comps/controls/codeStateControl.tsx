@@ -27,7 +27,7 @@ import {
   ConstructorToView,
   evalNodeOrMinor,
   updateNodesV2Action,
-} from "lowcoder-core";
+} from "lowcoder-core1";
 import { memo } from "util/cacheUtils";
 import {
   toBoolean,

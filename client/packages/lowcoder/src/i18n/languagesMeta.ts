@@ -15,7 +15,7 @@ import {
     Flag_ar,
     Flag_pt,
     Flag_br
-  } from "lowcoder-design";
+  } from "lowcoder-design1";
 
 // Define the structure for a single language's metadata
 export interface LanguageMeta {

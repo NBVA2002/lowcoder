@@ -1,4 +1,4 @@
-import { CustomSelect } from "lowcoder-design";
+import { CustomSelect } from "lowcoder-design1";
 import {
   CustomModalStyled,
 } from "../styled";

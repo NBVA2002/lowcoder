@@ -6,9 +6,9 @@ import {
   FormInput,
   OtpFormInput,
   PasswordInput,
-} from "lowcoder-design";
+} from "lowcoder-design1";
 import { TacoButton } from "lowcoder-design/src/components/button"
-import { PackUpIcon } from "lowcoder-design";
+import { PackUpIcon } from "lowcoder-design1";
 import ProfileImage from "pages/common/profileImage";
 import { User } from "constants/userConstants";
 import { replaceMiddleWithStar } from "util/stringUtils";

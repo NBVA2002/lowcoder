@@ -1,5 +1,5 @@
 import {ThemeDetail} from "api/commonSettingApi";
-import {darkenColor, isDarkColor, lightenColor, toHex} from "lowcoder-design";
+import {darkenColor, isDarkColor, lightenColor, toHex} from "lowcoder-design1";
 import {trans} from "i18n";
 import {StyleConfigType} from "./styleControl";
 import { defaultTheme } from "@lowcoder-ee/constants/themeConstants";

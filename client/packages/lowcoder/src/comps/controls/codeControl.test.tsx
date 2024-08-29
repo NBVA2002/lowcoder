@@ -1,5 +1,5 @@
 import { evalAndReduce } from "comps/utils";
-import { Comp } from "lowcoder-core";
+import { Comp } from "lowcoder-core1";
 import { NumberControl, StringControl } from "./codeControl";
 
 function serialize(comp: Comp) {

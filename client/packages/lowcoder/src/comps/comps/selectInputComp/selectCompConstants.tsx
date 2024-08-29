@@ -3,7 +3,7 @@ import {
   DispatchType,
   RecordConstructorToComp,
   RecordConstructorToView,
-} from "lowcoder-core";
+} from "lowcoder-core1";
 import { BoolControl } from "../../controls/boolControl";
 import { LabelControl } from "../../controls/labelControl";
 import { BoolCodeControl, StringControl } from "../../controls/codeControl";
@@ -16,7 +16,7 @@ import {
   MultiselectTagIcon,
   Section,
   sectionNames,
-} from "lowcoder-design";
+} from "lowcoder-design1";
 import { SelectOptionControl } from "../../controls/optionsControl";
 import { SelectEventHandlerControl } from "../../controls/eventHandlerControl";
 import { default as AntdSelect } from "antd/es/select";

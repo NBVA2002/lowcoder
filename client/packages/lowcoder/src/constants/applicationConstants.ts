@@ -1,5 +1,5 @@
 import type { JSONValue } from "util/jsonTypes";
-import type { ExtraActionType } from "lowcoder-core";
+import type { ExtraActionType } from "lowcoder-core1";
 import type { CommonSettingResponseData } from "api/commonSettingApi";
 import type { PermissionItem } from "../components/PermissionDialog/PermissionList";
 import type { UiLayoutType } from "comps/comps/uiComp";

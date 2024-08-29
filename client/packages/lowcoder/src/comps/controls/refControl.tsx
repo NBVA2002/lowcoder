@@ -1,6 +1,6 @@
 import { ReactNode } from "react";
-import { CompAction } from "lowcoder-core";
-import { AbstractComp, CompParams } from "lowcoder-core";
+import { CompAction } from "lowcoder-core1";
+import { AbstractComp, CompParams } from "lowcoder-core1";
 
 // empty object
 type EmptyDataType = {};

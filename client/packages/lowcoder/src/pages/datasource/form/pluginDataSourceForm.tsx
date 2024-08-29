@@ -20,7 +20,7 @@ import {
   FormSelectItemProps,
   TacoButton,
   TacoMarkDown,
-} from "lowcoder-design";
+} from "lowcoder-design1";
 import { DatasourceFormProps } from "./datasourceFormRegistry";
 import { AdvancedSettingFormSectionLabel, CertValidationFormItem, DatasourceNameFormInputItem, ForwardCookiesFormItem, GeneralSettingFormSectionLabel, encryptedPlaceholder } from "../form";
 import {

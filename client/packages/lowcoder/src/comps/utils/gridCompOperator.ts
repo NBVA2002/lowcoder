@@ -22,8 +22,8 @@ import {
   multiChangeAction,
   replaceCompAction,
   wrapActionExtraInfo,
-} from "lowcoder-core";
-import { CustomModal, messageInstance } from "lowcoder-design";
+} from "lowcoder-core1";
+import { CustomModal, messageInstance } from "lowcoder-design1";
 import { pasteKey, undoKey } from "util/keyUtils";
 import { genRandomKey } from "./idGenerator";
 import { getLatestVersion, getRemoteCompType, parseCompType } from "./remote";

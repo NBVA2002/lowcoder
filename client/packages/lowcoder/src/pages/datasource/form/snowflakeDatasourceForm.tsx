@@ -1,5 +1,5 @@
 import React from "react";
-import { DatasourceForm, FormInputItem, FormKeyValueItem, FormSection } from "lowcoder-design";
+import { DatasourceForm, FormInputItem, FormKeyValueItem, FormSection } from "lowcoder-design1";
 import { SnowflakeConfig } from "api/datasourceApi";
 import { DatasourceFormProps } from "./datasourceFormRegistry";
 import {

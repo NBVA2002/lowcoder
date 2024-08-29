@@ -10,7 +10,7 @@ import {
   LockIcon,
   UnLockIcon,
   CloseEyeIcon,
-} from "lowcoder-design";
+} from "lowcoder-design1";
 import history from "util/history";
 import { OAUTH_PROVIDER_SETTING } from "constants/routesURL";
 import {

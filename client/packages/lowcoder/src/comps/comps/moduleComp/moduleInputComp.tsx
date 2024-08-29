@@ -1,14 +1,14 @@
-import { routeByNameAction, executeQueryAction } from "lowcoder-core";
-import { CompAction, CompActionTypes, RouteByNameAction } from "lowcoder-core";
-import { CompParams } from "lowcoder-core";
+import { routeByNameAction, executeQueryAction } from "lowcoder-core1";
+import { CompAction, CompActionTypes, RouteByNameAction } from "lowcoder-core1";
+import { CompParams } from "lowcoder-core1";
 import { codeControl } from "comps/controls/codeControl";
 import QuerySelectControl from "comps/controls/querySelectControl";
 import { MultiCompBuilder, parseChildrenFromValueAndChildrenMap } from "comps/generators/multi";
-import { Node } from "lowcoder-core";
+import { Node } from "lowcoder-core1";
 import { Fragment, ReactNode } from "react";
 import { setFieldsNoTypeCheck } from "util/objectUtils";
 import { inputControls, InputTypeEnum } from "../moduleContainerComp/ioComp/inputListItemComp";
-import { controlItem, ControlNode } from "lowcoder-design";
+import { controlItem, ControlNode } from "lowcoder-design1";
 
 interface InputItem {
   name: string;

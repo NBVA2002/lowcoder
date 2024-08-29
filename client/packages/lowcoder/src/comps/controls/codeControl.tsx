@@ -24,13 +24,13 @@ import {
   transformWrapper,
   ValueAndMsg,
   withFunction,
-} from "lowcoder-core";
+} from "lowcoder-core1";
 import {
   ControlPropertyViewWrapper,
   isValidColor,
   toHex,
   wrapperToControlItem,
-} from "lowcoder-design";
+} from "lowcoder-design1";
 import { CSSProperties, lazy, ReactNode, Suspense } from "react";
 import {
   showTransform,

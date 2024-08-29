@@ -13,8 +13,8 @@ import _ from "lodash";
 import { ReactNode, useContext, useState } from "react";
 import { toJson } from "really-relaxed-json";
 import { hashToNum } from "util/stringUtils";
-import { CustomSelect, PackUpIcon } from "lowcoder-design";
-import { ScrollBar } from "lowcoder-design";
+import { CustomSelect, PackUpIcon } from "lowcoder-design1";
+import { ScrollBar } from "lowcoder-design1";
 import { ColoredTagOptionControl } from "comps/controls/optionsControl";
 
 const colors = PresetStatusColorTypes;

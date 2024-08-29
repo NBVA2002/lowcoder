@@ -1,6 +1,6 @@
-import type { CodeType } from "lowcoder-core";
-import { relaxedJSONToJSON } from "lowcoder-core";
-import { getDynamicStringSegments, isDynamicSegment } from "lowcoder-core";
+import type { CodeType } from "lowcoder-core1";
+import { relaxedJSONToJSON } from "lowcoder-core1";
+import { getDynamicStringSegments, isDynamicSegment } from "lowcoder-core1";
 import { format as formatSQL } from "sql-formatter";
 import type { Language } from "./codeEditorTypes";
 

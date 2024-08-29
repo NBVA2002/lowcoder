@@ -4,7 +4,7 @@ import { trans } from "i18n";
 import { useState } from "react";
 import { validateResponse } from "api/apiUtils";
 import IdSourceApi from "api/idSourceApi";
-import { DangerIcon, CustomModal } from "lowcoder-design";
+import { DangerIcon, CustomModal } from "lowcoder-design1";
 import history from "util/history";
 import { OAUTH_PROVIDER_SETTING } from "constants/routesURL";
 import { messageInstance } from "lowcoder-design/src/components/GlobalInstances";

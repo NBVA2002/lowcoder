@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { messageInstance, CloseEyeIcon, CustomSelect } from "lowcoder-design";
+import { messageInstance, CloseEyeIcon, CustomSelect } from "lowcoder-design1";
 import { i18nObjs, trans } from "i18n";
 import {
   FormStyled,

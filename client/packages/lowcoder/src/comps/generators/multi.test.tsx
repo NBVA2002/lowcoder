@@ -4,13 +4,13 @@ import {
   multiChangeAction,
   updateNodesV2Action,
   wrapChildAction,
-} from "lowcoder-core";
+} from "lowcoder-core1";
 import { valueComp, withDefault } from ".";
-import { Comp } from "lowcoder-core";
+import { Comp } from "lowcoder-core1";
 import { MultiCompBuilder } from "./multi";
 import { StringControl } from "comps/controls/codeControl";
 import { evalAndReduce } from "comps/utils";
-import { fromRecord, fromValue } from "lowcoder-core";
+import { fromRecord, fromValue } from "lowcoder-core1";
 import { BoolControl } from "comps/controls/boolControl";
 
 const emptyViewFunc = (props: Record<string, any>) => {

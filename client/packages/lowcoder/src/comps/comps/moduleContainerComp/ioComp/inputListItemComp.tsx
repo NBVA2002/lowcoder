@@ -7,7 +7,7 @@ import {
   isCustomAction,
   isMyCustomAction,
   CustomAction,
-} from "lowcoder-core";
+} from "lowcoder-core1";
 import { MethodConfig, ExecuteAction } from "comps/controls/actionSelector/executeCompTypes";
 import {
   JSONValueControl,
@@ -24,12 +24,12 @@ import { withType, MultiCompBuilder } from "comps/generators";
 import { simpleValueComp } from "comps/generators/hookToComp";
 import { withExposingRaw } from "comps/generators/withExposing";
 import { getReduceContext } from "comps/utils/reduceContext";
-import { FunctionNode, CodeNode, fromRecord, Node } from "lowcoder-core";
+import { FunctionNode, CodeNode, fromRecord, Node } from "lowcoder-core1";
 import { Fragment, useEffect } from "react";
 import { setFieldsNoTypeCheck } from "util/objectUtils";
 import { handlePromiseAndDispatch } from "util/promiseUtils";
 import { trans } from "i18n";
-import { controlItem } from "lowcoder-design";
+import { controlItem } from "lowcoder-design1";
 
 export enum InputTypeEnum {
   Data = "data",

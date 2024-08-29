@@ -1,5 +1,5 @@
 import { trans, transToNode } from "i18n";
-import { Section, sectionNames } from "lowcoder-design";
+import { Section, sectionNames } from "lowcoder-design1";
 import { ListViewImplComp } from "./listViewComp";
 import { ListCompType } from "./listViewUtils";
 import { useContext } from "react";

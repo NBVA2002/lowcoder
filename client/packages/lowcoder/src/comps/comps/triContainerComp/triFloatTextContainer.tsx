@@ -7,7 +7,7 @@ import {
 } from "comps/controls/styleControlConstants";
 import { EditorContext } from "comps/editorState";
 import { BackgroundColorContext } from "comps/utils/backgroundColorContext";
-import { HintPlaceHolder, TacoMarkDown } from "lowcoder-design";
+import { HintPlaceHolder, TacoMarkDown } from "lowcoder-design1";
 import { ReactNode, useContext } from "react";
 import styled, { css } from "styled-components";
 import { checkIsMobile } from "util/commonUtils";

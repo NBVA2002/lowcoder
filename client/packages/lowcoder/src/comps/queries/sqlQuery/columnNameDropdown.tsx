@@ -1,11 +1,11 @@
-import { DispatchType } from "lowcoder-core";
+import { DispatchType } from "lowcoder-core1";
 import { ControlPlacement } from "../../controls/controlParams";
 import React, { useContext } from "react";
-import { Dropdown, OptionsType } from "lowcoder-design";
+import { Dropdown, OptionsType } from "lowcoder-design1";
 import { isEmpty, values } from "lodash";
 import { useSelector } from "react-redux";
 import { getDataSourceStructures } from "../../../redux/selectors/datasourceSelectors";
-import { changeValueAction } from "lowcoder-core";
+import { changeValueAction } from "lowcoder-core1";
 import { QueryContext } from "../../../util/context/QueryContext";
 
 export const ColumnNameDropdown = (props: {

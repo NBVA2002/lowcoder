@@ -9,7 +9,7 @@ import {
   Node,
   routeByNameAction,
   triggerModuleEventAction,
-} from "lowcoder-core";
+} from "lowcoder-core1";
 import { getPromiseAfterDispatch } from "util/promiseUtils";
 import { RootComp } from "../rootComp";
 import { TextComp } from "../textComp";

@@ -9,8 +9,8 @@ import {
   Node,
   SimpleComp,
   ValueAndMsg,
-} from "lowcoder-core";
-import { CheckBox, controlItem, Switch, SwitchJsIcon, SwitchWrapper } from "lowcoder-design";
+} from "lowcoder-core1";
+import { CheckBox, controlItem, Switch, SwitchJsIcon, SwitchWrapper } from "lowcoder-design1";
 import { ReactNode } from "react";
 import styled from "styled-components";
 import { setFieldsNoTypeCheck } from "util/objectUtils";

@@ -6,7 +6,7 @@ import styled from "styled-components";
 import { LightActiveTextColor, PrimaryColor } from "constants/style";
 import { styleControl } from "comps/controls/styleControl";
 import { avatarGroupStyle, AvatarGroupStyleType } from "comps/controls/styleControlConstants";
-import { AlignCenter, AlignLeft, AlignRight } from "lowcoder-design";
+import { AlignCenter, AlignLeft, AlignRight } from "lowcoder-design1";
 import { NumberControl } from "comps/controls/codeControl";
 import { Avatar, Tooltip } from "antd";
 import { clickEvent, eventHandlerControl, refreshEvent } from "comps/controls/eventHandlerControl";

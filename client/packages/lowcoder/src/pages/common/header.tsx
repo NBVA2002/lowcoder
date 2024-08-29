@@ -22,7 +22,7 @@ import {
   PackUpIcon,
   Right,
   TacoButton,
-} from "lowcoder-design";
+} from "lowcoder-design1";
 import { trans } from "i18n";
 import dayjs from "dayjs";
 import { useContext, useState } from "react";

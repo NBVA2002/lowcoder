@@ -1,11 +1,11 @@
-import { RecordConstructorToComp } from "lowcoder-core";
+import { RecordConstructorToComp } from "lowcoder-core1";
 import { BoolCodeControl } from "../../controls/codeControl";
 import { LabelControl } from "../../controls/labelControl";
 import {
   arrayStringExposingStateControl,
   stringExposingStateControl,
 } from "../../controls/codeStateControl";
-import { Section, sectionNames } from "lowcoder-design";
+import { Section, sectionNames } from "lowcoder-design1";
 import { SelectInputOptionControl } from "../../controls/optionsControl";
 import { ChangeEventHandlerControl } from "../../controls/eventHandlerControl";
 import {

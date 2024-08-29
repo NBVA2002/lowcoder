@@ -9,7 +9,7 @@ import {
 } from "comps/comps/containerBase/utils";
 import { HookComp } from "./hookComp";
 import { hookCompCategory } from "./hookCompTypes";
-import { CompParams } from "lowcoder-core";
+import { CompParams } from "lowcoder-core1";
 
 const defaultHookListValue = [
   // { compType: "title", name: "title" },

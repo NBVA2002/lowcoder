@@ -66,8 +66,8 @@ export * from "comps/utils";
 export * from "comps/utils/themeContext";
 
 // design
-export * from "lowcoder-design";
-export * from "lowcoder-core";
+export * from "lowcoder-design1";
+export * from "lowcoder-core1";
 
 // controls
 export * from "comps/controls/alignControl";

@@ -1,5 +1,5 @@
-import { CompAction, CustomAction, isMyCustomAction } from "lowcoder-core";
-import { AbstractComp, Comp, ConstructorToComp, MultiBaseComp } from "lowcoder-core";
+import { CompAction, CustomAction, isMyCustomAction } from "lowcoder-core1";
+import { AbstractComp, Comp, ConstructorToComp, MultiBaseComp } from "lowcoder-core1";
 import {
   EvalParamType,
   ExecuteAction,

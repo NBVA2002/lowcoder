@@ -16,8 +16,8 @@ import {
 import { ExposingInfo } from "comps/utils/exposingTypes";
 import { getReduceContext, WithParamsContext } from "comps/utils/reduceContext";
 import { parseCompType } from "comps/utils/remote";
-import { Comp, CompAction, ConstructorToDataType } from "lowcoder-core";
-import { ScrollBar, SearchTextContext } from "lowcoder-design";
+import { Comp, CompAction, ConstructorToDataType } from "lowcoder-core1";
+import { ScrollBar, SearchTextContext } from "lowcoder-design1";
 import React, { Profiler, useContext, useEffect, useMemo, useState } from "react";
 import { profilerCallback } from "util/cacheUtils";
 import { setFieldsNoTypeCheck, shallowEqual } from "util/objectUtils";

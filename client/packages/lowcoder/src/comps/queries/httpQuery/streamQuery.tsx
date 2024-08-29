@@ -9,7 +9,7 @@ import { FunctionControl } from "comps/controls/codeControl";
 import { JSONValue } from "util/jsonTypes";
 import { withMethodExposing } from "comps/generators/withMethodExposing";
 import { stateComp } from "comps/generators";
-import { multiChangeAction } from "lowcoder-core";
+import { multiChangeAction } from "lowcoder-core1";
 
 const socketConnection = async (socket: WebSocket, timeout = 10000) => {
   const isOpened = () => (socket.readyState === WebSocket.OPEN)

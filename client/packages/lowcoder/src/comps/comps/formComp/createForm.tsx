@@ -10,7 +10,7 @@ import {
   labelCss,
   ModalFooterWrapper,
   TacoButton,
-} from "lowcoder-design";
+} from "lowcoder-design1";
 import _ from "lodash";
 import { useEffect, useState } from "react";
 import { useDispatch, useSelector } from "react-redux";

@@ -8,7 +8,7 @@ import styled from "styled-components";
 import { CheckboxStyle, CheckboxStyleType } from "comps/controls/styleControlConstants";
 import { useStyle } from "comps/controls/styleControl";
 import { dropdownControl } from "comps/controls/dropdownControl";
-import { TableCheckedIcon, TableUnCheckedIcon } from "lowcoder-design";
+import { TableCheckedIcon, TableUnCheckedIcon } from "lowcoder-design1";
 import { IconControl } from "comps/controls/iconControl";
 import { hasIcon } from "comps/utils";
 

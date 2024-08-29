@@ -5,7 +5,7 @@ import {
   FormWrapperMobile,
   StyledRouteLinkLogin,
 } from "pages/userAuth/authComponents";
-import { FormInput, PasswordInput, messageInstance } from "lowcoder-design";
+import { FormInput, PasswordInput, messageInstance } from "lowcoder-design1";
 import { AUTH_LOGIN_URL, ORG_AUTH_LOGIN_URL } from "constants/routesURL";
 import UserApi from "api/userApi";
 import { useRedirectUrl } from "util/hooks";

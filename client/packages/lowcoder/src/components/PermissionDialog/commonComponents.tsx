@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import { AdminIcon, CustomSelect, GroupIcon, WhiteLoading } from "lowcoder-design";
+import { AdminIcon, CustomSelect, GroupIcon, WhiteLoading } from "lowcoder-design1";
 import React from "react";
 
 export const StyledRoleSelect = styled(CustomSelect)`

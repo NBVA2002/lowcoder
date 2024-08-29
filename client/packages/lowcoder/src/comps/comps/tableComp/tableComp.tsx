@@ -44,7 +44,7 @@ import {
   routeByNameAction,
   withFunction,
   wrapChildAction,
-} from "lowcoder-core";
+} from "lowcoder-core1";
 import { saveDataAsFile } from "util/fileUtils";
 import { JSONObject, JSONValue } from "util/jsonTypes";
 import { lastValueIfEqual, shallowEqual } from "util/objectUtils";

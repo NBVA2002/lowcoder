@@ -1,12 +1,12 @@
 import InviteApi, { InviteInfo } from "api/inviteApi";
-import { CommonTextLabel, CustomModal, TacoButton, TacoInput } from "lowcoder-design";
+import { CommonTextLabel, CustomModal, TacoButton, TacoInput } from "lowcoder-design1";
 import { CSSProperties, ReactNode, useEffect, useState } from "react";
 import { connect } from "react-redux";
 import { AppState } from "redux/reducers";
 import { getUser } from "redux/selectors/usersSelectors";
 import styled from "styled-components";
 import { validateResponse } from "api/apiUtils";
-import { WhiteLoading } from "lowcoder-design";
+import { WhiteLoading } from "lowcoder-design1";
 import { genInviteLink } from "util/urlUtils";
 import { HelpText } from "components/HelpText";
 import copyToClipboard from "copy-to-clipboard";

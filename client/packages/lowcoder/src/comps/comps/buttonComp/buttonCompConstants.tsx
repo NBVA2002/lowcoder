@@ -3,7 +3,7 @@ import { styleControl } from "comps/controls/styleControl";
 import { ButtonStyleType, ButtonStyle } from "comps/controls/styleControlConstants";
 import { migrateOldData } from "comps/generators/simpleGenerators";
 import styled, { css } from "styled-components";
-import { genActiveColor, genHoverColor } from "lowcoder-design";
+import { genActiveColor, genHoverColor } from "lowcoder-design1";
 import { refMethods } from "comps/generators/withMethodExposing";
 import { blurMethod, clickMethod, focusWithOptions } from "comps/utils/methodUtils";
 

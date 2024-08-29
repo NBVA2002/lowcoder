@@ -14,7 +14,7 @@ import {
   DispatchType,
   Node,
   ValueAndMsg,
-} from "lowcoder-core";
+} from "lowcoder-core1";
 import {
   BlockGrayLabel,
   controlItem,
@@ -29,7 +29,7 @@ import {
   TacoButton,
   wrapperToControlItem,
   useShape,
-} from "lowcoder-design";
+} from "lowcoder-design1";
 import { ReactNode, useCallback, useState } from "react";
 import styled from "styled-components";
 import { setFieldsNoTypeCheck } from "util/objectUtils";

@@ -11,8 +11,8 @@ import {
 import { MultiCompBuilder, sameTypeMap, withDefault } from "comps/generators";
 import { migrateOldData, valueComp } from "comps/generators/simpleGenerators";
 import { NameGenerator } from "comps/utils";
-import { changeValueAction, fromRecord, multiChangeAction, Node } from "lowcoder-core";
-import { nodeIsRecord } from "lowcoder-core";
+import { changeValueAction, fromRecord, multiChangeAction, Node } from "lowcoder-core1";
+import { nodeIsRecord } from "lowcoder-core1";
 import _ from "lodash";
 import { ReactNode, useContext, useEffect } from "react";
 import { lastValueIfEqual } from "util/objectUtils";
@@ -26,7 +26,7 @@ import {
 import { SimpleContainerComp } from "../containerBase/simpleContainerComp";
 import { ContainerBodyChildComp } from "./containerBodyChildComp";
 import { trans } from "i18n";
-import { ControlNode } from "lowcoder-design";
+import { ControlNode } from "lowcoder-design1";
 import { useMergeCompStyles } from "@lowcoder-ee/util/hooks";
 import SliderControl from "@lowcoder-ee/comps/controls/sliderControl";
 

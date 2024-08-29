@@ -10,7 +10,7 @@ import {
   Node,
   routeByNameAction,
   triggerModuleEventAction,
-} from "lowcoder-core";
+} from "lowcoder-core1";
 import { lastValueIfEqual } from "util/objectUtils";
 
 const childrenMap = {

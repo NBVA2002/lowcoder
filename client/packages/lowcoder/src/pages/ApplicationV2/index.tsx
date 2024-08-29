@@ -33,12 +33,12 @@ import {
   AppsIcon,
   EnterpriseIcon,
   UserIcon,
-} from "lowcoder-design";
+} from "lowcoder-design1";
 import React, { useEffect, useState } from "react";
 import { fetchAllApplications, fetchHomeData } from "redux/reduxActions/applicationActions";
 import { getHomeOrg, normalAppListSelector } from "redux/selectors/applicationSelector";
 import { DatasourceHome } from "../datasource";
-import { clearStyleEval, evalStyle } from "lowcoder-core";
+import { clearStyleEval, evalStyle } from "lowcoder-core1";
 import { QueryLibraryEditor } from "../queryLibrary/QueryLibraryEditor";
 import { ProductLoading } from "components/ProductLoading";
 import { Layout } from "../../components/layout/Layout";

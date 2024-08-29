@@ -1,6 +1,6 @@
 import { SelectEventHandlerControl } from "../../controls/eventHandlerControl";
-import { Section, sectionNames } from "lowcoder-design";
-import { RecordConstructorToComp } from "lowcoder-core";
+import { Section, sectionNames } from "lowcoder-design1";
+import { RecordConstructorToComp } from "lowcoder-core1";
 import { BoolCodeControl, JSONObjectArrayControl, StringControl } from "comps/controls/codeControl";
 import { arrayStringExposingStateControl } from "comps/controls/codeStateControl";
 import { BoolControl } from "comps/controls/boolControl";

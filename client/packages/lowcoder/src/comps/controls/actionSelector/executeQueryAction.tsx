@@ -1,9 +1,9 @@
-import { executeQueryAction, routeByNameAction } from "lowcoder-core";
+import { executeQueryAction, routeByNameAction } from "lowcoder-core1";
 import { InputTypeEnum } from "comps/comps/moduleContainerComp/ioComp/inputListItemComp";
 import { SimpleNameComp } from "comps/comps/simpleNameComp";
 import { EditorContext, EditorState } from "comps/editorState";
 import { MultiCompBuilder } from "comps/generators/multi";
-import { BranchDiv, Dropdown } from "lowcoder-design";
+import { BranchDiv, Dropdown } from "lowcoder-design1";
 import { BottomResTypeEnum } from "types/bottomRes";
 import { getPromiseAfterDispatch } from "util/promiseUtils";
 import { trans } from "i18n";

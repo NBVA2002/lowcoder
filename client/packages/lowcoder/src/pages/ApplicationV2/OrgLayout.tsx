@@ -9,7 +9,7 @@ import { normalAppListSelector } from "../../redux/selectors/applicationSelector
 import history from "util/history";
 import { ALL_APPLICATIONS_URL, ORG_HOME_URL } from "constants/routesURL";
 import { default as AntdBreadcrumb } from "antd/es/breadcrumb";
-import { ArrowIcon } from "lowcoder-design";
+import { ArrowIcon } from "lowcoder-design1";
 import { Avatar, Button, Card, Col, Row, Space, Typography, Select, Tooltip } from "antd";
 import { useRef } from "react";
 import { LowcoderAppView } from "appView/LowcoderAppView";
@@ -18,7 +18,7 @@ import {
   ApplicationDocIcon,
   ModuleDocIcon,
   AvatarGroupCompIcon,
-} from "lowcoder-design";
+} from "lowcoder-design1";
 
 import { SERVER_HOST } from "constants/apiConstants";
 import { sdkConfig } from "constants/sdkConfig";

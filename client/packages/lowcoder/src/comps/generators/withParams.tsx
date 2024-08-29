@@ -22,7 +22,7 @@ import {
   WrapContextFn,
   WrapContextNodeV2,
   wrapDispatch,
-} from "lowcoder-core";
+} from "lowcoder-core1";
 import { ReactNode } from "react";
 import { JSONValue } from "util/jsonTypes";
 import { depthEqual, lastValueIfEqual, setFieldsNoTypeCheck } from "util/objectUtils";

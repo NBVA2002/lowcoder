@@ -11,7 +11,7 @@ import { withDispatchHook } from "comps/generators/withDispatchHook";
 import { NameAndExposingInfo } from "comps/utils/exposingTypes";
 import { ALL_APPLICATIONS_URL } from "constants/routesURL";
 import { TopHeaderHeight } from "constants/style";
-import { Section, controlItem, sectionNames } from "lowcoder-design";
+import { Section, controlItem, sectionNames } from "lowcoder-design1";
 import { trans } from "i18n";
 import { EditorContainer, EmptyContent } from "pages/common/styledComponent";
 import { useCallback, useEffect, useMemo, useState } from "react";

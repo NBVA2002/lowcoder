@@ -1,5 +1,5 @@
 import { useMemo, useState } from "react";
-import { messageInstance, CloseEyeIcon } from "lowcoder-design";
+import { messageInstance, CloseEyeIcon } from "lowcoder-design1";
 import { trans } from "i18n";
 import {
   FormStyled,

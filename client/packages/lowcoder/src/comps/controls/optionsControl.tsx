@@ -19,7 +19,7 @@ import {
   fromRecord,
   MultiBaseComp,
   withFunction,
-} from "lowcoder-core";
+} from "lowcoder-core1";
 import {
   AutoArea,
   CompressIcon,
@@ -29,7 +29,7 @@ import {
   Option,
   WidthIcon,
   ImageCompIcon,
-} from "lowcoder-design";
+} from "lowcoder-design1";
 import styled from "styled-components";
 import { lastValueIfEqual } from "util/objectUtils";
 import { getNextEntityName } from "util/stringUtils";

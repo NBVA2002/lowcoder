@@ -1,11 +1,11 @@
-import { CompAction, RecordConstructorToView, changeChildAction } from "lowcoder-core";
+import { CompAction, RecordConstructorToView, changeChildAction } from "lowcoder-core1";
 import { BoolControl } from "comps/controls/boolControl";
 import { arrayObjectExposingStateControl, arrayStringExposingStateControl } from "comps/controls/codeStateControl";
 import { styleControl } from "comps/controls/styleControl";
 import { TransferStyle, TransferStyleType, heightCalculator, widthCalculator } from "comps/controls/styleControlConstants";
 import { UICompBuilder } from "comps/generators/uiCompBuilder";
 import { NameConfig, NameConfigHidden, withExposingConfigs } from "comps/generators/withExposing";
-import { Section, sectionNames } from "lowcoder-design";
+import { Section, sectionNames } from "lowcoder-design1";
 import { hiddenPropertyView } from "comps/utils/propertyUtils";
 import { trans } from "i18n";
 import { NumberControl, StringControl } from "comps/controls/codeControl";

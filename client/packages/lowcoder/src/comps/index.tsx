@@ -111,7 +111,7 @@ import {
   GraphChartCompIcon,
   GanttCompIcon,
 
-} from "lowcoder-design";
+} from "lowcoder-design1";
 
 type Registry = {
   [key in UICompType]?: UICompManifest;

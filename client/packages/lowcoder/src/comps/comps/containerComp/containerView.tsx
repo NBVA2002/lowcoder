@@ -5,7 +5,7 @@ import { hookCompCategory, HookCompType } from "comps/hooks/hookCompTypes";
 import { UICompLayoutInfo, uiCompRegistry, UICompType } from "comps/uiCompRegistry";
 import { genRandomKey } from "comps/utils/idGenerator";
 import { parseCompType } from "comps/utils/remote";
-import { ScrollBar } from "lowcoder-design";
+import { ScrollBar } from "lowcoder-design1";
 import {
   DEFAULT_POSITION_PARAMS,
   draggingUtils,
@@ -38,7 +38,7 @@ import {
   RecordConstructorToView,
   wrapActionExtraInfo,
   wrapChildAction,
-} from "lowcoder-core";
+} from "lowcoder-core1";
 import React, {
   DragEvent,
   HTMLAttributes,

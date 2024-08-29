@@ -7,7 +7,7 @@ import {
   ConstructorToView,
   MultiBaseComp,
   wrapDispatch,
-} from "lowcoder-core";
+} from "lowcoder-core1";
 import {
   parseChildrenFromValueAndChildrenMap,
   ToConstructor,

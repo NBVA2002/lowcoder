@@ -1,5 +1,5 @@
 import { QueryComp } from "./queryComp";
-import { CompParams } from "lowcoder-core";
+import { CompParams } from "lowcoder-core1";
 
 // shallow copy all values and methods
 test("object create", () => {

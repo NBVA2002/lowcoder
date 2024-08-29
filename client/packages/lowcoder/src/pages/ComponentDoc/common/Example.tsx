@@ -1,9 +1,9 @@
-import { Comp } from "lowcoder-core";
+import { Comp } from "lowcoder-core1";
 import { evalAndReduceWithExposing } from "comps/utils";
 import _ from "lodash";
 import React, { ReactNode, useContext, useEffect, useState } from "react";
 import styled from "styled-components";
-import { ShowBorderIcon, EditIcon } from "lowcoder-design";
+import { ShowBorderIcon, EditIcon } from "lowcoder-design1";
 import propNames from "../propNameText";
 import valueTranslate from "../propValueText";
 import { AppTypeEnum } from "constants/applicationConstants";

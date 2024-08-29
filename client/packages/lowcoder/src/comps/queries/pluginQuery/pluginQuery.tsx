@@ -22,10 +22,10 @@ import {
   QueryConfigItemWrapper,
   QueryConfigLabel,
   QueryConfigWrapper,
-} from "lowcoder-design";
+} from "lowcoder-design1";
 import React, { ReactNode, useEffect, useState } from "react";
 import { FunctionProperty, toQueryView } from "../queryCompUtils";
-import { CompConstructor } from "lowcoder-core";
+import { CompConstructor } from "lowcoder-core1";
 import { dropdownControl } from "comps/controls/dropdownControl";
 import { ControlParams, ControlType } from "comps/controls/controlParams";
 import MarkdownTooltip from "lowcoder-design/src/components/MarkdownTooltip";

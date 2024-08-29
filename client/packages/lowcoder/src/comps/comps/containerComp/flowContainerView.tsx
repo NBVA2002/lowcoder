@@ -1,4 +1,4 @@
-import { DispatchType } from "lowcoder-core";
+import { DispatchType } from "lowcoder-core1";
 import { GridItemsType } from "comps/comps/containerComp/containerView";
 import _ from "lodash";
 import { FlowLayout } from "layout/utils";

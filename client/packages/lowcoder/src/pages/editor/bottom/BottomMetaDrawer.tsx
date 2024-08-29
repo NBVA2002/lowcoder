@@ -1,5 +1,5 @@
 import { DataNode } from "antd/es/tree";
-import { CopyTextButton, CustomTree, labelCss, PackUpIcon, Search } from "lowcoder-design";
+import { CopyTextButton, CustomTree, labelCss, PackUpIcon, Search } from "lowcoder-design1";
 import _ from "lodash";
 import { default as AntdDrawer } from "antd/es/drawer";
 import { CSSProperties, useEffect, useState } from "react";

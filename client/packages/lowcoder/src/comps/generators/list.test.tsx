@@ -1,6 +1,6 @@
 import { arrayMove } from "comps/utils";
 import { valueComp } from ".";
-import { ConstructorToComp } from "lowcoder-core";
+import { ConstructorToComp } from "lowcoder-core1";
 import { list } from "./list";
 import { MultiCompBuilder } from "./multi";
 

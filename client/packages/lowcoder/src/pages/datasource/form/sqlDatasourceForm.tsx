@@ -1,5 +1,5 @@
 import React from "react";
-import { DatasourceForm, FormCheckboxItem, FormSection } from "lowcoder-design";
+import { DatasourceForm, FormCheckboxItem, FormSection } from "lowcoder-design1";
 import { SQLConfig } from "api/datasourceApi";
 import { DatasourceFormProps } from "./datasourceFormRegistry";
 import {

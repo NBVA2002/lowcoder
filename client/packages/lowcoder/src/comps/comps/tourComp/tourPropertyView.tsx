@@ -1,7 +1,7 @@
-import { RecordConstructorToComp } from "lowcoder-core";
+import { RecordConstructorToComp } from "lowcoder-core1";
 import { BoolControl } from "../../controls/boolControl";
 import { ArrowControl, BoolCodeControl, MaskControl } from "../../controls/codeControl";
-import { Section } from "lowcoder-design";
+import { Section } from "lowcoder-design1";
 
 import { TourStepControl } from "@lowcoder-ee/comps/controls/tourStepControl";
 import { booleanExposingStateControl } from "comps/controls/codeStateControl";

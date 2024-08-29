@@ -1,6 +1,6 @@
 import { NPM_PLUGIN_ASSETS_BASE_URL } from "constants/npmPlugins";
 import { trans } from "i18n";
-import { CompConstructor } from "lowcoder-core";
+import { CompConstructor } from "lowcoder-core1";
 import {
   RemoteCompInfo,
   RemoteCompLoader,

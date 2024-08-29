@@ -1,9 +1,9 @@
 import { JSONObject } from "util/jsonTypes";
-import { NodeToValue, RecordNode } from "lowcoder-core";
+import { NodeToValue, RecordNode } from "lowcoder-core1";
 import _ from "lodash";
 import React, { ReactNode } from "react";
-import { CompAction } from "lowcoder-core";
-import { Comp, CompParams, MultiBaseComp, wrapDispatch } from "lowcoder-core";
+import { CompAction } from "lowcoder-core1";
+import { Comp, CompParams, MultiBaseComp, wrapDispatch } from "lowcoder-core1";
 
 type ViewFnType<ViewReturn, ChildrenType> = (
   childrenType: ChildrenType,

@@ -1,13 +1,13 @@
 import { withTypeAndChildrenAbstract } from "comps/generators/withType";
 import { trans } from "i18n";
 import { includes } from "lodash";
-import { CompAction, CompConstructor } from "lowcoder-core";
+import { CompAction, CompConstructor } from "lowcoder-core1";
 import {
   Dropdown,
   QueryConfigWrapper,
   QueryTutorialButton,
   ValueFromOption,
-} from "lowcoder-design";
+} from "lowcoder-design1";
 import { QueryTutorials } from "util/tutorialUtils";
 import {
   ParamsNumberControl,

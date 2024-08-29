@@ -8,8 +8,8 @@ import {
 import { NameGenerator } from "comps/utils/nameGenerator";
 import { hiddenPropertyView } from "comps/utils/propertyUtils";
 import { trans } from "i18n";
-import { CompParams } from "lowcoder-core";
-import { Section, sectionNames } from "lowcoder-design";
+import { CompParams } from "lowcoder-core1";
+import { Section, sectionNames } from "lowcoder-design1";
 import { oldContainerParamsToNew } from "../containerBase";
 import { toSimpleContainerData } from "../containerBase/simpleContainerComp";
 import {

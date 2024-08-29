@@ -2,7 +2,7 @@ import { withDefault } from "comps/generators";
 import { TableComp } from ".";
 import { newPrimaryColumn } from "comps/comps/tableComp/column/tableColumnComp";
 import { NameGenerator } from "../../utils";
-import { ConstructorToDataType } from "lowcoder-core";
+import { ConstructorToDataType } from "lowcoder-core1";
 import { EditorState } from "../../editorState";
 import { isArrayLikeObject } from "lodash";
 import { i18nObjs } from "i18n";

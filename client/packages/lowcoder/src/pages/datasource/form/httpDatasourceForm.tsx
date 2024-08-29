@@ -8,7 +8,7 @@ import {
   FormSectionLabel,
   FormSelectItem,
   ValueFromOption,
-} from "lowcoder-design";
+} from "lowcoder-design1";
 import { trans } from "i18n";
 import React, { useState } from "react";
 import {

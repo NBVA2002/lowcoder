@@ -1,4 +1,4 @@
-import { MultiBaseComp } from "lowcoder-core";
+import { MultiBaseComp } from "lowcoder-core1";
 import { BoolCodeControl, StringControl } from "comps/controls/codeControl";
 import { valueComp } from "comps/generators";
 import { list } from "comps/generators/list";

@@ -6,8 +6,8 @@ import { dropdownControl } from "comps/controls/dropdownControl";
 import { EditorContext } from "comps/editorState";
 import { list } from "comps/generators/list";
 import { trans } from "i18n";
-import { multiChangeAction } from "lowcoder-core";
-import { controlItem, Section } from "lowcoder-design";
+import { multiChangeAction } from "lowcoder-core1";
+import { controlItem, Section } from "lowcoder-design1";
 import { useContext } from "react";
 import InputListItemComp, { getInputOptionLabel, InputTypeEnum } from "./inputListItemComp";
 

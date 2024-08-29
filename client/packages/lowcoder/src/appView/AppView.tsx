@@ -3,7 +3,7 @@ import GlobalInstances from "components/GlobalInstances";
 import { RootComp } from "comps/comps/rootComp";
 import { GetContainerParams, useCompInstance } from "comps/utils/useCompInstance";
 import { createBrowserHistory } from "history";
-import { CompActionTypes, deferAction } from "lowcoder-core";
+import { CompActionTypes, deferAction } from "lowcoder-core1";
 import { HTMLAttributes, useEffect, useMemo, useRef } from "react";
 import { Provider } from "react-redux";
 import { Route, Router } from "react-router";

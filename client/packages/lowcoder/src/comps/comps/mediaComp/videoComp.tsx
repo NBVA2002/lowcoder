@@ -1,9 +1,9 @@
-import { Section, sectionNames } from "lowcoder-design";
+import { Section, sectionNames } from "lowcoder-design1";
 import { eventHandlerControl } from "../../controls/eventHandlerControl";
 import { StringStateControl, numberExposingStateControl } from "../../controls/codeStateControl";
 import { UICompBuilder } from "../../generators";
 import { NameConfig, NameConfigHidden, withExposingConfigs } from "../../generators/withExposing";
-import { RecordConstructorToView } from "lowcoder-core";
+import { RecordConstructorToView } from "lowcoder-core1";
 import { useEffect, useRef, useState } from "react";
 import { styleControl } from "comps/controls/styleControl";
 import {
@@ -13,11 +13,11 @@ import {
 } from 'comps/controls/styleControlConstants';
 import { BoolControl } from "comps/controls/boolControl";
 import { withDefault } from "../../generators/simpleGenerators";
-import { playIcon } from "lowcoder-design";
+import { playIcon } from "lowcoder-design1";
 import { RangeControl } from "../../controls/codeControl";
 import { hiddenPropertyView } from "comps/utils/propertyUtils";
 import { trans } from "i18n";
-import { Video } from "lowcoder-design";
+import { Video } from "lowcoder-design1";
 import type ReactPlayer from "react-player";
 import { mediaCommonChildren, mediaMethods } from "./mediaUtils";
 

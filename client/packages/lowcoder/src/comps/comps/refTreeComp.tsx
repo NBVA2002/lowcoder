@@ -8,7 +8,7 @@ import {
   MultiCompConstructor,
   RenameAction,
   wrapChildAction,
-} from "lowcoder-core";
+} from "lowcoder-core1";
 
 const treeItemComp = (childComp: MultiCompConstructor) => {
   class TreeItemListComp extends list(childComp) {

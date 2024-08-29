@@ -1,4 +1,4 @@
-import { Input, Section, sectionNames } from "lowcoder-design";
+import { Input, Section, sectionNames } from "lowcoder-design1";
 import { BoolControl } from "comps/controls/boolControl";
 import { styleControl } from "comps/controls/styleControl";
 import { AnimationStyle, InputFieldStyle, InputLikeStyle, InputLikeStyleType, LabelStyle, LabelStyleType } from "comps/controls/styleControlConstants";

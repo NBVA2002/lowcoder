@@ -1,6 +1,6 @@
 import ReactResizeDetector from "react-resize-detector";
 import { NameConfigHidden, withExposingConfigs } from "comps/generators/withExposing";
-import { Section, sectionNames } from "lowcoder-design";
+import { Section, sectionNames } from "lowcoder-design1";
 import { TriContainer } from "../triContainerComp/triContainer";
 import {
   ContainerCompBuilder,

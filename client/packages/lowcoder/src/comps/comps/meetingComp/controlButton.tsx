@@ -17,7 +17,7 @@ import {
   Dropdown,
   Section,
   sectionNames,
-} from "lowcoder-design";
+} from "lowcoder-design1";
 import { trans } from "i18n";
 import styled, { css } from "styled-components";
 

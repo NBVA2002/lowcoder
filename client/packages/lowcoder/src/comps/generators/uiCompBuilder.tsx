@@ -1,7 +1,7 @@
 import { BoolCodeControl, StringControl } from "comps/controls/codeControl";
 import React, { ReactNode, useContext, useEffect, useRef, useState } from "react";
 import { ExternalEditorContext } from "util/context/ExternalEditorContext";
-import { Comp, CompParams, MultiBaseComp } from "lowcoder-core";
+import { Comp, CompParams, MultiBaseComp } from "lowcoder-core1";
 import {
   childrenToProps,
   parseChildrenFromValueAndChildrenMap,
@@ -22,7 +22,7 @@ import {
   MethodConfigsType,
   withMethodExposing,
 } from "./withMethodExposing";
-import {Section, controlItem } from "lowcoder-design";
+import {Section, controlItem } from "lowcoder-design1";
 import { trans } from "i18n";
 import { BoolControl } from "../controls/boolControl";
 import { valueComp, withDefault } from "./simpleGenerators";

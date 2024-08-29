@@ -1,5 +1,5 @@
 import { default as Progress } from "antd/es/progress";
-import { Section, sectionNames } from "lowcoder-design";
+import { Section, sectionNames } from "lowcoder-design1";
 import { numberExposingStateControl } from "../controls/codeStateControl";
 import { BoolControl } from "../controls/boolControl";
 import { UICompBuilder } from "../generators";

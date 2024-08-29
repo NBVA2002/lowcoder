@@ -6,7 +6,7 @@ import { bottomResListComp } from "comps/generators/bottomResList";
 import { NameConfig, withExposingConfigs } from "comps/generators/withExposing";
 import { trans } from "i18n";
 import _ from "lodash";
-import { CompAction, CompActionTypes } from "lowcoder-core";
+import { CompAction, CompActionTypes } from "lowcoder-core1";
 import {
   TacoMarkDown,
   DocLink,
@@ -14,7 +14,7 @@ import {
   QueryConfigWrapper,
   QueryPropertyViewWrapper,
   QuerySectionWrapper,
-} from "lowcoder-design";
+} from "lowcoder-design1";
 import { BottomTabs } from "pages/editor/bottom/BottomTabs";
 import { ReactNode } from "react";
 import { BottomResComp, BottomResCompResult, BottomResTypeEnum } from "types/bottomRes";

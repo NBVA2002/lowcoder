@@ -1,6 +1,6 @@
 import { JSONValue } from "util/jsonTypes";
-import { Comp, CompParams, ConstructorToNodeType, ConstructorToView } from "lowcoder-core";
-import { MultiBaseComp } from "lowcoder-core";
+import { Comp, CompParams, ConstructorToNodeType, ConstructorToView } from "lowcoder-core1";
+import { MultiBaseComp } from "lowcoder-core1";
 
 type GetDataType<T> = T extends new (params: CompParams<any>) => MultiBaseComp<any, infer A, any>
   ? A

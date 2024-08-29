@@ -9,7 +9,7 @@ import {
   PackUpIcon,
   PcNavIcon,
   TacoButton,
-} from "lowcoder-design";
+} from "lowcoder-design1";
 import React, { FunctionComponent, useState } from "react";
 import type { ItemType } from "antd/es/menu/hooks/useItems";
 import { HomeResInfo } from "../../util/homeResUtils";

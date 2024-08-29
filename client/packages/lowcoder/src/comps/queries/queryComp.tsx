@@ -41,8 +41,8 @@ import {
   MultiBaseComp,
   multiChangeAction,
   wrapActionExtraInfo,
-} from "lowcoder-core";
-import { ValueFromOption } from "lowcoder-design";
+} from "lowcoder-core1";
+import { ValueFromOption } from "lowcoder-design1";
 import { ReactNode, useEffect } from "react";
 import {
   BottomResComp,

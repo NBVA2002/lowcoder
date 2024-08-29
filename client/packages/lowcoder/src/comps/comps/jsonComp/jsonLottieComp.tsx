@@ -8,7 +8,7 @@ import { BoolControl } from "comps/controls/boolControl";
 import { styleControl } from "comps/controls/styleControl";
 import { AnimationStyle, LottieStyle } from "comps/controls/styleControlConstants";
 import { trans } from "i18n";
-import { Section, sectionNames } from "lowcoder-design";
+import { Section, sectionNames } from "lowcoder-design1";
 import { useContext, lazy, useEffect } from "react";  
 import { UICompBuilder, withDefault } from "../../generators";
 import {

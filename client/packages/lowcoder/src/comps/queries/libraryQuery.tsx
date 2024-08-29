@@ -10,13 +10,13 @@ import {
   isMyCustomAction,
   MultiBaseComp,
   wrapChildAction,
-} from "lowcoder-core";
+} from "lowcoder-core1";
 import {
   Dropdown,
   QueryConfigLabel,
   QueryConfigWrapper,
   QueryTutorialButton,
-} from "lowcoder-design";
+} from "lowcoder-design1";
 import { Fragment, useEffect } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import styled from "styled-components";

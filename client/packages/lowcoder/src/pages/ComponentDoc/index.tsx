@@ -1,4 +1,4 @@
-import { Search } from "lowcoder-design";
+import { Search } from "lowcoder-design1";
 import { useEffect, useState } from "react";
 import { Link, useParams } from "react-router-dom";
 import styled from "styled-components";

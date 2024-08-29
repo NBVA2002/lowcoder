@@ -11,8 +11,8 @@ import { CellColorViewType, RawColumnType, Render } from "comps/comps/tableComp/
 import { TableFilter, tableFilterOperatorMap } from "comps/comps/tableComp/tableToolbarComp";
 import { SortValue, TableOnEventView } from "comps/comps/tableComp/tableTypes";
 import _ from "lodash";
-import { changeChildAction, CompAction, NodeToValue } from "lowcoder-core";
-import { EditableIcon } from "lowcoder-design";
+import { changeChildAction, CompAction, NodeToValue } from "lowcoder-core1";
+import { EditableIcon } from "lowcoder-design1";
 import { tryToNumber } from "util/convertUtils";
 import { JSONObject, JSONValue } from "util/jsonTypes";
 import { StatusType } from "./column/columnTypeComps/columnStatusComp";

@@ -1,5 +1,5 @@
-import { CompAction } from "lowcoder-core";
-import { DispatchType } from "lowcoder-core";
+import { CompAction } from "lowcoder-core1";
+import { DispatchType } from "lowcoder-core1";
 
 export interface PromiseActionOptions {
   // auto handle after reduce if not handled

@@ -1,5 +1,5 @@
-import { Comp, DispatchType } from "lowcoder-core";
-import { controlItem, ControlItemData, ControlNode } from "lowcoder-design";
+import { Comp, DispatchType } from "lowcoder-core1";
+import { controlItem, ControlItemData, ControlNode } from "lowcoder-design1";
 import { MultiCompBuilder } from "./multi";
 
 // Build a comp with getPropertyView() returns ControlItem

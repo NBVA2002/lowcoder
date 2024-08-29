@@ -1,6 +1,6 @@
 import _, { noop } from "lodash";
 import dayjs from "dayjs";
-import { RecordConstructorToComp, RecordConstructorToView } from "lowcoder-core";
+import { RecordConstructorToComp, RecordConstructorToView } from "lowcoder-core1";
 import {
   BoolCodeControl,
   CustomRuleControl,

@@ -11,7 +11,7 @@ import { trans } from "i18n";
 import { isNumber } from "lodash";
 import dayjs from "dayjs";
 import utc from "dayjs/plugin/utc";
-import { CalendarCompIconSmall, PrevIcon, SuperPrevIcon } from "lowcoder-design";
+import { CalendarCompIconSmall, PrevIcon, SuperPrevIcon } from "lowcoder-design1";
 import { useState } from "react";
 import styled from "styled-components";
 import { DateParser, DATE_FORMAT } from "util/dateTimeUtils";

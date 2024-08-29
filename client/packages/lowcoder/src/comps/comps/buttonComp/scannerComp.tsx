@@ -13,7 +13,7 @@ import { styleControl } from "comps/controls/styleControl";
 import { DropdownStyle } from "comps/controls/styleControlConstants";
 import { withDefault } from "comps/generators";
 import { UICompBuilder } from "comps/generators/uiCompBuilder";
-import { CustomModal, Section, sectionNames } from "lowcoder-design";
+import { CustomModal, Section, sectionNames } from "lowcoder-design1";
 import styled from "styled-components";
 import { CommonNameConfig, NameConfig, withExposingConfigs } from "../../generators/withExposing";
 import { hiddenPropertyView, disabledPropertyView } from "comps/utils/propertyUtils";

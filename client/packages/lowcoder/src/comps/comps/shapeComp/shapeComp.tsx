@@ -1,11 +1,11 @@
-import { CompParams } from "lowcoder-core";
+import { CompParams } from "lowcoder-core1";
 import { ToDataType } from "comps/generators/multi";
 import {
   NameConfigHidden,
   withExposingConfigs,
 } from "comps/generators/withExposing";
 import { NameGenerator } from "comps/utils/nameGenerator";
-import { Section, sectionNames } from "lowcoder-design";
+import { Section, sectionNames } from "lowcoder-design1";
 import { oldContainerParamsToNew } from "../containerBase";
 import { toSimpleContainerData } from "../containerBase/simpleContainerComp";
 import { ShapeTriContainer } from "./shapeTriContainer";

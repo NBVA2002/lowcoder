@@ -4,7 +4,7 @@ import { useSelector } from "react-redux";
 import React, { useContext, useMemo, useState } from "react";
 import { DataSourceTypeInfo } from "api/datasourceApi";
 import styled from "styled-components";
-import { CustomSelect, EllipsisTextCss } from "lowcoder-design";
+import { CustomSelect, EllipsisTextCss } from "lowcoder-design1";
 import { DatasourceModal } from "pages/datasource/datasourceModal";
 import { InputStatus } from "antd/es/_util/statusUtils";
 import { getDataSource, getDataSourceTypes } from "redux/selectors/datasourceSelectors";

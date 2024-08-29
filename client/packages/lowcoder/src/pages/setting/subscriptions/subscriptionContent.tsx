@@ -1,4 +1,4 @@
-import { ArrowIcon } from "lowcoder-design";
+import { ArrowIcon } from "lowcoder-design1";
 import styled from "styled-components";
 import { trans } from "i18n";
 import { useParams } from "react-router-dom";

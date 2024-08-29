@@ -5,10 +5,10 @@ import {
   DispatchType,
   CompAction,
   RecordConstructorToView,
-} from "lowcoder-core";
+} from "lowcoder-core1";
 import { trans } from "i18n";
 import { UICompBuilder, withDefault } from "../../generators";
-import { Section, sectionNames } from "lowcoder-design";
+import { Section, sectionNames } from "lowcoder-design1";
 import { hiddenPropertyView } from "comps/utils/propertyUtils";
 import { BoolControl } from "comps/controls/boolControl";
 import { stringExposingStateControl } from "comps/controls/codeStateControl";

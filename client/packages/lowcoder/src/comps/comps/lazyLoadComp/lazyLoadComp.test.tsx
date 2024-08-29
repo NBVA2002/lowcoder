@@ -3,7 +3,7 @@ import { simpleMultiComp, valueComp } from "comps/generators";
 import { withSimpleExposing } from "comps/generators/withExposing";
 import { withMethodExposing } from "comps/generators/withMethodExposing";
 import { evalAndReduce } from "comps/utils";
-import { customAction } from "lowcoder-core";
+import { customAction } from "lowcoder-core1";
 import { lazyLoadComp } from "./lazyLoadComp";
 
 const TestComp = valueComp<number>(123);

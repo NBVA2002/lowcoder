@@ -8,7 +8,7 @@ import {
   QueryConfigWrapper,
   QueryPropertyViewWrapper,
   QuerySectionWrapper,
-} from "lowcoder-design";
+} from "lowcoder-design1";
 import _, { pick } from "lodash";
 import { ControlParams } from "../../controls/controlParams";
 import styled from "styled-components";
@@ -16,7 +16,7 @@ import { BoolCodeControl, StringControl } from "../../controls/codeControl";
 import { BoolPureControl } from "../../controls/boolControl";
 import { millisecondsControl } from "../../controls/millisecondControl";
 import { trans } from "i18n";
-import { CompAction, customAction, isMyCustomAction } from "lowcoder-core";
+import { CompAction, customAction, isMyCustomAction } from "lowcoder-core1";
 import { messageInstance } from "lowcoder-design/src/components/GlobalInstances";
 
 const SuccessMessageAction = new MultiCompBuilder(

@@ -14,7 +14,7 @@ import { connect } from "react-redux";
 import { fetchCommonSettings, setCommonSettings } from "redux/reduxActions/commonSettingsActions";
 import { AppState } from "redux/reducers";
 import { DETAIL_TYPE } from "../themeConstant";
-import { ArrowIcon, CustomModal, ResetIcon } from "lowcoder-design";
+import { ArrowIcon, CustomModal, ResetIcon } from "lowcoder-design1";
 import {
   DetailContainer,
   DetailContent,
@@ -33,7 +33,7 @@ import {
   ShapesCompIcon,
   ChartCompIcon,
   
-} from "lowcoder-design";
+} from "lowcoder-design1";
 import PreviewApp from "../../../../components/PreviewApp";
 import { trans } from "i18n";
 import { Prompt } from "react-router";

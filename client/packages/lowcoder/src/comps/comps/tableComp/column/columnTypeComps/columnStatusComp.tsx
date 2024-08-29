@@ -8,7 +8,7 @@ import { StringControl, stringUnionControl } from "comps/controls/codeControl";
 import { DropdownStyled, Wrapper } from "./columnTagsComp";
 import { ReactNode, useContext, useState } from "react";
 import { StatusContext } from "components/table/EditableCell";
-import { CustomSelect, PackUpIcon, ScrollBar } from "lowcoder-design";
+import { CustomSelect, PackUpIcon, ScrollBar } from "lowcoder-design1";
 import { PresetStatusColorType } from "antd/es/_util/colors";
 
 export const ColumnValueTooltip = trans("table.columnValueTooltip");

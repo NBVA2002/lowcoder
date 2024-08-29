@@ -1,6 +1,6 @@
 import { Input } from "lowcoder-design/src/components/Input";
-import { SimpleComp } from "lowcoder-core";
-import { ControlPropertyViewWrapper } from "lowcoder-design";
+import { SimpleComp } from "lowcoder-core1";
+import { ControlPropertyViewWrapper } from "lowcoder-design1";
 import { ControlParams } from "./controlParams";
 
 class SimpleStringControl extends SimpleComp<string> {

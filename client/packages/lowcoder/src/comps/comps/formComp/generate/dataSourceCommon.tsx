@@ -1,4 +1,4 @@
-import { ConstructorToDataType } from "lowcoder-core";
+import { ConstructorToDataType } from "lowcoder-core1";
 import { QueryComp } from "comps/queries/queryComp";
 import { CompConfig, CompSelection, generateWrapJs } from "./comp";
 import { DatasourceType } from "@lowcoder-ee/constants/queryConstants";

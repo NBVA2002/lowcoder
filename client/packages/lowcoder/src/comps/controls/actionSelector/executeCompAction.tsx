@@ -1,4 +1,4 @@
-import { CompParams, ConstructorToDataType, customAction, routeByNameAction } from "lowcoder-core";
+import { CompParams, ConstructorToDataType, customAction, routeByNameAction } from "lowcoder-core1";
 import { GridItemComp } from "comps/comps/gridItemComp";
 import { SimpleNameComp } from "comps/comps/simpleNameComp";
 import { TemporaryStateItemComp } from "comps/comps/temporaryStateComp";
@@ -7,7 +7,7 @@ import { valueComp, withTypeAndChildren } from "comps/generators";
 import { list } from "comps/generators/list";
 import { MultiCompBuilder } from "comps/generators/multi";
 import { HookComp } from "comps/hooks/hookComp";
-import { BranchDiv, Dropdown } from "lowcoder-design";
+import { BranchDiv, Dropdown } from "lowcoder-design1";
 import { mapValues } from "lodash";
 import { Fragment, ReactNode } from "react";
 import { getPromiseAfterDispatch } from "util/promiseUtils";

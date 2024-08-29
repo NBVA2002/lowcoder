@@ -1,6 +1,6 @@
 import { default as InputNumber } from "antd/es/input-number";
-import { SimpleComp } from "lowcoder-core";
-import { ControlPropertyViewWrapper } from "lowcoder-design";
+import { SimpleComp } from "lowcoder-core1";
+import { ControlPropertyViewWrapper } from "lowcoder-design1";
 import React, { ReactNode } from "react";
 import styled from "styled-components";
 import { ControlParams } from "./controlParams";

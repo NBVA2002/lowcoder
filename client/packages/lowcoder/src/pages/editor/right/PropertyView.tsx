@@ -2,8 +2,8 @@ import { EmptyContent } from "components/EmptyContent";
 import type UIComp from "comps/comps/uiComp";
 import { EditorContext } from "comps/editorState";
 import { GridCompOperator } from "comps/utils/gridCompOperator";
-import { SelectedComps } from "lowcoder-design";
-import { ScrollBar } from "lowcoder-design";
+import { SelectedComps } from "lowcoder-design1";
+import { ScrollBar } from "lowcoder-design1";
 import { ReactNode, useContext } from "react";
 import { trans } from "i18n";
 

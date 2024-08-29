@@ -5,7 +5,7 @@ import {
   FormSectionLabel,
   FormSelectItem,
   FormTextAreaItem,
-} from "lowcoder-design";
+} from "lowcoder-design1";
 import { trans } from "i18n";
 import { toNumber } from "lodash";
 import { useHostCheck } from "./form/useHostCheck";

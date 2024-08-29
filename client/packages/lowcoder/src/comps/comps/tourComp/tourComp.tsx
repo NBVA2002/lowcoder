@@ -4,10 +4,10 @@ import { withMethodExposing } from "../../generators/withMethodExposing";
 import { UICompBuilder } from "../../generators";
 import { stringExposingStateControl } from "comps/controls/codeStateControl";
 import { CommonNameConfig, NameConfig, withExposingConfigs } from "../../generators/withExposing";
-import { MultiBaseComp } from "lowcoder-core";
+import { MultiBaseComp } from "lowcoder-core1";
 
 // FALK TODO: Check imports
-// import { MultiBaseComp } from "lowcoder-core";
+// import { MultiBaseComp } from "lowcoder-core1";
 // import { UICompBuilder } from "comps/generators/uiCompBuilder";
 // import { stringExposingStateControl } from "comps/controls/codeStateControl";
 // import { withMethodExposing } from "comps/generators/withMethodExposing";

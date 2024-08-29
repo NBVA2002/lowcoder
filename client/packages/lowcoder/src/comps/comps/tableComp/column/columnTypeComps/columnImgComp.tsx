@@ -6,7 +6,7 @@ import {
 import { StringControl, NumberControl } from "comps/controls/codeControl";
 import { trans } from "i18n";
 import { withDefault } from "comps/generators";
-import { TacoImage } from "lowcoder-design";
+import { TacoImage } from "lowcoder-design1";
 
 export const ColumnValueTooltip = trans("table.columnValueTooltip");
 

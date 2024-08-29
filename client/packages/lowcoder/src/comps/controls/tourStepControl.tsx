@@ -16,8 +16,8 @@ import {
   MultiBaseComp,
   SimpleAbstractComp,
   withFunction
-} from "lowcoder-core";
-import { controlItem, Dropdown, Option, OptionsType, ValueFromOption } from "lowcoder-design";
+} from "lowcoder-core1";
+import { controlItem, Dropdown, Option, OptionsType, ValueFromOption } from "lowcoder-design1";
 import { getNextEntityName } from "util/stringUtils";
 import { BoolControl, ControlParams } from "lowcoder-sdk";
 import { ReactNode, useContext, useEffect, useState } from "react";

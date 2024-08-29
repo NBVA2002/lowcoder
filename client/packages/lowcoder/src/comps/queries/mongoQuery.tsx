@@ -1,7 +1,7 @@
 import { withPropertyViewFn, withTypeAndChildren } from "comps/generators";
 import { includes } from "lodash";
-import { CompAction, CompConstructor } from "lowcoder-core";
-import { Dropdown, ValueFromOption } from "lowcoder-design";
+import { CompAction, CompConstructor } from "lowcoder-core1";
+import { Dropdown, ValueFromOption } from "lowcoder-design1";
 import { dropdownControl } from "../controls/dropdownControl";
 import {
   ParamsJsonControl,

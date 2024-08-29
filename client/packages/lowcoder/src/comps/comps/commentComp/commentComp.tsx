@@ -4,13 +4,13 @@ import {
   changeChildAction,
   CompAction,
   RecordConstructorToView,
-} from "lowcoder-core";
+} from "lowcoder-core1";
 // Text internationalisation conversion api
 import { trans } from "i18n";
 // General frame of the right property bar
 import { UICompBuilder, withDefault } from "../../generators";
 // Right-side attribute subframe
-import { Section, sectionNames } from "lowcoder-design";
+import { Section, sectionNames } from "lowcoder-design1";
 // Switch indicating whether the component is hidden or not
 import { hiddenPropertyView } from "comps/utils/propertyUtils";
 // Right property switch

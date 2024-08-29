@@ -1,6 +1,6 @@
 import { ThemeContext } from "comps/utils/themeContext";
 import { BorderColor } from "constants/style";
-import { HintPlaceHolder } from "lowcoder-design";
+import { HintPlaceHolder } from "lowcoder-design1";
 import _ from "lodash";
 import { useContext, useRef } from "react";
 import styled from "styled-components";

@@ -1,7 +1,7 @@
 import "comps/comps/layout/navLayout";
 import "comps/comps/layout/mobileTabLayout";
 
-import { CompAction, CompActionTypes } from "lowcoder-core";
+import { CompAction, CompActionTypes } from "lowcoder-core1";
 import { EditorContext, EditorState } from "comps/editorState";
 import { simpleMultiComp } from "comps/generators";
 import { HookListComp } from "comps/hooks/hookListComp";
@@ -28,7 +28,7 @@ import {
   PropertySectionContext,
   PropertySectionContextType,
   PropertySectionState,
-} from "lowcoder-design";
+} from "lowcoder-design1";
 import RefTreeComp from "./refTreeComp";
 import { ExternalEditorContext } from "util/context/ExternalEditorContext";
 import { useUserViewMode } from "util/hooks";

@@ -1,4 +1,4 @@
-import { CompConstructor, CompParams } from "lowcoder-core";
+import { CompConstructor, CompParams } from "lowcoder-core1";
 import { withType, withViewFn } from "comps/generators";
 import { COMP_DATA_TYPE } from "comps/generators/withType";
 import { NameAndExposingInfo } from "comps/utils/exposingTypes";

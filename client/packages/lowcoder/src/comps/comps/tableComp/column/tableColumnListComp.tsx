@@ -13,7 +13,7 @@ import {
   fromRecord,
   isMyCustomAction,
   RecordNode,
-} from "lowcoder-core";
+} from "lowcoder-core1";
 import { shallowEqual } from "react-redux";
 import { JSONObject, JSONValue } from "util/jsonTypes";
 import { lastValueIfEqual } from "util/objectUtils";

@@ -29,8 +29,8 @@ import {
   ConstructorToView,
   RecordConstructorToComp,
   RecordConstructorToView,
-} from "lowcoder-core";
-import { controlItem } from "lowcoder-design";
+} from "lowcoder-core1";
+import { controlItem } from "lowcoder-design1";
 import { JSONObject } from "util/jsonTypes";
 import { ExpansionControl } from "./expansionControl";
 import { PaginationControl } from "./paginationControl";

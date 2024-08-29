@@ -18,7 +18,7 @@ import { ThemeContext } from "comps/utils/themeContext";
 import { checkIsMobile } from "util/commonUtils";
 import { CanvasContainerID } from "constants/domLocators";
 import { CNRootContainer } from "constants/styleSelectors";
-import { ScrollBar } from "lowcoder-design";
+import { ScrollBar } from "lowcoder-design1";
 import { defaultTheme } from "@lowcoder-ee/constants/themeConstants";
 
 // min-height: 100vh;

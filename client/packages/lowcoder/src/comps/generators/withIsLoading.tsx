@@ -7,7 +7,7 @@ import {
   MultiCompConstructor,
   CompAction,
   CompActionTypes,
-} from "lowcoder-core";
+} from "lowcoder-core1";
 import styled from "styled-components";
 import { codeControl } from "comps/controls/codeControl";
 import { setFieldsNoTypeCheck } from "util/objectUtils";

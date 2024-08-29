@@ -5,7 +5,7 @@ import {
   CloseEyeIcon,
   CustomModal,
   UnderlineCss,
-} from "lowcoder-design";
+} from "lowcoder-design1";
 import { trans } from "i18n";
 import { default as Form } from "antd/es/form";
 import { default as Input } from "antd/es/input";

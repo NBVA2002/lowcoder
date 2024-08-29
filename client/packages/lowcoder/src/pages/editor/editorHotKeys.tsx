@@ -3,7 +3,7 @@ import { EditorContext, EditorState } from "comps/editorState";
 import { GridCompOperator } from "comps/utils/gridCompOperator";
 import { ExternalEditorContext } from "util/context/ExternalEditorContext";
 import { EditorHistory } from "util/editoryHistory";
-import { executeQueryAction } from "lowcoder-core";
+import { executeQueryAction } from "lowcoder-core1";
 import {
   GlobalShortcutsWrapper,
   modKeyPressed,

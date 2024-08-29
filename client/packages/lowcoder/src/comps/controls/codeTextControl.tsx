@@ -1,10 +1,10 @@
 // import { CodeEditor } from "base/codeEditor/codeEditor";
-import { CompParams } from "lowcoder-core";
+import { CompParams } from "lowcoder-core1";
 import { EditorContext } from "comps/editorState";
 import { valueComp } from "comps/generators";
 import { CompExposingContext } from "comps/generators/withContext";
 import { exposingDataForAutoComplete } from "comps/utils/exposingTypes";
-import { ControlPropertyViewWrapper } from "lowcoder-design";
+import { ControlPropertyViewWrapper } from "lowcoder-design1";
 import { debounce } from "lodash";
 import { ReactNode, Suspense, lazy, useContext, useMemo } from "react";
 import type { CodeEditorProps } from "base/codeEditor/codeEditorTypes";

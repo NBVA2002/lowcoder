@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { DatasourceForm, FormInputItem, FormSection, FormSelectItem } from "lowcoder-design";
+import { DatasourceForm, FormInputItem, FormSection, FormSelectItem } from "lowcoder-design1";
 import { MongoConfig } from "../../../api/datasourceApi";
 import { DatasourceFormProps } from "./datasourceFormRegistry";
 import { useHostCheck } from "./useHostCheck";

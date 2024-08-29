@@ -19,5 +19,9 @@
     "jsx": "react-jsx",
     "baseUrl": "./src"
   },
-  "include": ["src"]
+  "include": ["src"],
+  "paths": {
+    "lowcoder-core1": ["./node_modules/lowcoder-core1"],
+    "lowcoder-design1": ["./node_modules/lowcoder-design1"],
+  }
 }

@@ -1,4 +1,4 @@
-import { Comp } from "lowcoder-core";
+import { Comp } from "lowcoder-core1";
 import { EditorState } from "comps/editorState";
 import { ReactNode } from "react";
 

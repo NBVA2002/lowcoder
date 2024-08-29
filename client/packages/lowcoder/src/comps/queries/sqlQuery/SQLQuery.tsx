@@ -6,13 +6,13 @@ import {
 } from "../../controls/paramsControl";
 import { toQueryView } from "../queryCompUtils";
 import { withTypeAndChildrenAbstract } from "../../generators/withType";
-import { CompAction } from "lowcoder-core";
+import { CompAction } from "lowcoder-core1";
 import {
   Dropdown,
   QueryConfigItemWrapper,
   QueryConfigLabel,
   QueryConfigWrapper,
-} from "lowcoder-design";
+} from "lowcoder-design1";
 import { BoolPureControl } from "../../controls/boolControl";
 import { dropdownControl } from "../../controls/dropdownControl";
 import { TableNameComp } from "./tableNameComp";

@@ -3,7 +3,7 @@ import { useSelector } from "react-redux";
 import styled from "styled-components";
 import dayjs from "dayjs";
 import { default as AntdBreadcrumb } from "antd/es/breadcrumb";
-import { ArrowIcon } from "lowcoder-design";
+import { ArrowIcon } from "lowcoder-design1";
 
 import { getUser } from "../../redux/selectors/usersSelectors";
 import { getCurrentUser } from "../../redux/selectors/usersSelectors";
@@ -24,13 +24,13 @@ import {
   BlurFinishInput,
   OtpFormInput, // maybe to use
   PasswordInput, // maybe to use
-} from "lowcoder-design";
+} from "lowcoder-design1";
 
 import {
   ApplicationDocIcon,
   ModuleDocIcon,
   AvatarGroupCompIcon,
-} from "lowcoder-design";
+} from "lowcoder-design1";
 
 import { useDispatch } from "react-redux";
 import { beforeImgUpload, getBase64 } from "util/fileUtils";

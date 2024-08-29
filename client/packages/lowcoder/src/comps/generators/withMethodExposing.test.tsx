@@ -1,4 +1,4 @@
-import { customAction } from "lowcoder-core";
+import { customAction } from "lowcoder-core1";
 import { NumberControl } from "comps/controls/codeControl";
 import { evalAndReduce } from "comps/utils";
 import { MultiCompBuilder, withDefault } from ".";

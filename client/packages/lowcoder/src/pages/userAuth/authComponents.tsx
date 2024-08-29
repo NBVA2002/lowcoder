@@ -1,6 +1,6 @@
 import { CheckboxChangeEvent } from "antd/es/checkbox";
 import React, { CSSProperties, useRef } from "react";
-import { CheckBox, PackUpIcon, TacoButton } from "lowcoder-design";
+import { CheckBox, PackUpIcon, TacoButton } from "lowcoder-design1";
 import { Link } from "react-router-dom";
 import styled from "styled-components";
 import ReactHotkeys from "util/hotkeys";

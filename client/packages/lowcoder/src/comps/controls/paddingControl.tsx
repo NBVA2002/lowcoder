@@ -2,7 +2,7 @@ import { StringControl } from "comps/controls/codeControl";
 import { withDefault } from "comps/generators";
 import { MultiCompBuilder } from "comps/generators/multi";
 import { trans } from "i18n";
-import { Section } from "lowcoder-design";
+import { Section } from "lowcoder-design1";
 import styled from "styled-components";
 
 const PaddingContainer = styled.div<{}>`

@@ -1,4 +1,4 @@
-import { CustomModal } from "lowcoder-design";
+import { CustomModal } from "lowcoder-design1";
 
 import { useEffect, useState } from "react";
 import { useDispatch, useSelector } from "react-redux";

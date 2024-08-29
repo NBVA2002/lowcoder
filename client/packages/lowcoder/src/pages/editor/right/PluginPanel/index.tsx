@@ -4,7 +4,7 @@ import { PluginItem } from "./PluginItem";
 import { useDispatch, useSelector } from "react-redux";
 import { setCommonSettings } from "redux/reduxActions/commonSettingsActions";
 import { getUser } from "redux/selectors/usersSelectors";
-import { BluePlusIcon, CustomModal, DocLink, TacoButton, TacoInput } from "lowcoder-design";
+import { BluePlusIcon, CustomModal, DocLink, TacoButton, TacoInput } from "lowcoder-design1";
 import { getCommonSettings } from "redux/selectors/commonSettingSelectors";
 import styled from "styled-components";
 import { getNpmPackageMeta, normalizeNpmPackage, validateNpmPackage } from "comps/utils/remote";

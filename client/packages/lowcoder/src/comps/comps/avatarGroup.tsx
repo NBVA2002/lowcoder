@@ -1,9 +1,9 @@
-import { CompAction, RecordConstructorToView, changeChildAction } from "lowcoder-core";
+import { CompAction, RecordConstructorToView, changeChildAction } from "lowcoder-core1";
 import { styleControl } from "comps/controls/styleControl";
 import { QRCodeStyle, QRCodeStyleType, avatarGroupStyle, AvatarGroupStyleType, avatarContainerStyle, AvatarContainerStyleType } from "comps/controls/styleControlConstants";
 import { UICompBuilder } from "comps/generators/uiCompBuilder";
 import { NameConfig, NameConfigHidden, withExposingConfigs } from "comps/generators/withExposing";
-import { AlignCenter, AlignLeft, AlignRight, Section, sectionNames } from "lowcoder-design";
+import { AlignCenter, AlignLeft, AlignRight, Section, sectionNames } from "lowcoder-design1";
 import { hiddenPropertyView } from "comps/utils/propertyUtils";
 import { trans } from "i18n";
 import { NumberControl, StringControl } from "comps/controls/codeControl";

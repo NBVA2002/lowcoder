@@ -1,10 +1,10 @@
-import { routeByNameAction, executeQueryAction } from "lowcoder-core";
-import { CompAction } from "lowcoder-core";
+import { routeByNameAction, executeQueryAction } from "lowcoder-core1";
+import { CompAction } from "lowcoder-core1";
 import { StringControl } from "comps/controls/codeControl";
 import { jsonObjectStateControl } from "comps/controls/codeStateControl";
 import { UICompBuilder, withDefault } from "comps/generators";
 import { NameConfig, NameConfigHidden, withExposingConfigs } from "comps/generators/withExposing";
-import { Section, sectionNames } from "lowcoder-design";
+import { Section, sectionNames } from "lowcoder-design1";
 import { useEffect, useRef, useContext } from "react";
 import styled from "styled-components";
 import { getPromiseAfterDispatch } from "util/promiseUtils";

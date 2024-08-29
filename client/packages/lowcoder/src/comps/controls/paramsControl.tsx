@@ -8,7 +8,7 @@ import {
   Node,
   withFunction,
   wrapChildAction,
-} from "lowcoder-core";
+} from "lowcoder-core1";
 import { ReactNode } from "react";
 import { lastValueIfEqual } from "util/objectUtils";
 import {

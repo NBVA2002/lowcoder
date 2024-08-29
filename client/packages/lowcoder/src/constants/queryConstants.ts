@@ -12,7 +12,7 @@ import { ViewQuery } from "../comps/queries/viewQuery";
 import { GoogleSheetsQuery } from "../comps/queries/googleSheetsQuery";
 import { GraphqlQuery } from "../comps/queries/httpQuery/graphqlQuery";
 import { toPluginQuery } from "comps/queries/pluginQuery/pluginQuery";
-import { MultiCompConstructor } from "lowcoder-core";
+import { MultiCompConstructor } from "lowcoder-core1";
 import { DataSourcePluginMeta } from "lowcoder-sdk/dataSource";
 
 export type DatasourceType =

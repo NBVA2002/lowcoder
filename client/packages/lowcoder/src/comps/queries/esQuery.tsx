@@ -7,7 +7,7 @@ import {
   DispatchType,
   MultiBaseComp,
   multiChangeAction,
-} from "lowcoder-core";
+} from "lowcoder-core1";
 import {
   Dropdown,
   EllipsisTextCss,
@@ -16,7 +16,7 @@ import {
   QueryConfigWrapper,
   QueryTutorialButton,
   ValueFromOption,
-} from "lowcoder-design";
+} from "lowcoder-design1";
 import { useSelector } from "react-redux";
 import styled from "styled-components";
 import { QueryTutorials } from "util/tutorialUtils";

@@ -10,7 +10,7 @@ import {
   WrapNode,
   CompParams,
   DispatchType,
-} from "lowcoder-core";
+} from "lowcoder-core1";
 import { RootComp } from "comps/comps/rootComp";
 import { AutoHeightControl } from "comps/controls/autoHeightControl";
 import { valueComp, withDefault, withViewFn } from "comps/generators";
@@ -22,7 +22,7 @@ import { getReduceContext, PartialReduceContext, reduceInContext } from "comps/u
 import { API_STATUS_CODES } from "constants/apiConstants";
 import { AppTypeEnum } from "constants/applicationConstants";
 import { GreyTextColor } from "constants/style";
-import { ScrollBar, Section, sectionNames } from "lowcoder-design";
+import { ScrollBar, Section, sectionNames } from "lowcoder-design1";
 import { ReactNode, useEffect, useMemo } from "react";
 import styled from "styled-components";
 import {

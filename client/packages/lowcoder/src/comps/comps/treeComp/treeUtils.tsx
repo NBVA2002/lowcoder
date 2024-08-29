@@ -4,9 +4,9 @@ import { jsonExposingStateControl, jsonStateControl } from "comps/controls/codeS
 import { NewChildren } from "comps/generators/uiCompBuilder";
 import { CommonNameConfig, NameConfig } from "comps/generators/withExposing";
 import { disabledPropertyView, hiddenPropertyView } from "comps/utils/propertyUtils";
-import { ControlNode, Section, sectionNames } from "lowcoder-design";
+import { ControlNode, Section, sectionNames } from "lowcoder-design1";
 import { trans } from "i18n";
-import { RecordConstructorToComp, RecordConstructorToView } from "lowcoder-core";
+import { RecordConstructorToComp, RecordConstructorToView } from "lowcoder-core1";
 import { ReactNode, useEffect } from "react";
 import { check } from "util/convertUtils";
 import { formDataChildren, FormDataPropertyView } from "../formComp/formDataConstants";

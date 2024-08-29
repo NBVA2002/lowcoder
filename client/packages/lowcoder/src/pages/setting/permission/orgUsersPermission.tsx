@@ -10,7 +10,7 @@ import {
   ModalFooterWrapper,
   SuperUserIcon,
   TacoButton,
-} from "lowcoder-design";
+} from "lowcoder-design1";
 import { trans, transToNode } from "i18n";
 import InviteDialog from "pages/common/inviteDialog";
 import ProfileImage from "pages/common/profileImage";

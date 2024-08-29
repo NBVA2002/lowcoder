@@ -4,7 +4,7 @@ import { BoolControl } from "comps/controls/boolControl";
 import { alignControl } from "comps/controls/alignControl";
 import { UICompBuilder, withDefault } from "comps/generators";
 import { NameConfig, NameConfigHidden } from "comps/generators/withExposing";
-import { Section, sectionNames } from "lowcoder-design";
+import { Section, sectionNames } from "lowcoder-design1";
 import _ from "lodash";
 import styled from "styled-components";
 import { styleControl } from "comps/controls/styleControl";

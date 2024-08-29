@@ -1,7 +1,7 @@
 import { default as Button } from "antd/es/button";
 import { ManualWapper } from "pages/setting/idSource/styledComponents";
 import { trans } from "i18n";
-import { SyncManualIcon } from "lowcoder-design";
+import { SyncManualIcon } from "lowcoder-design1";
 import { useState } from "react";
 import { validateResponse } from "api/apiUtils";
 import { AuthType } from "@lowcoder-ee/pages/setting/idSource/idSourceConstants";

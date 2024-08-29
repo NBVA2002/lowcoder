@@ -3,7 +3,7 @@ import styled from "styled-components";
 import { PointIcon, SearchOutlinedIcon } from "lowcoder-design/src/icons";
 import type { EditPopoverItemType } from 'lowcoder-design/src/components/popover';
 import { Search } from 'lowcoder-design/src/components/Search';
-import { EditPopover } from "lowcoder-design";
+import { EditPopover } from "lowcoder-design1";
 import { EditorContext } from "comps/editorState";
 import { GridCompOperator } from "comps/utils/gridCompOperator";
 import { PopupCard } from "lowcoder-design/src/components/popupCard";
