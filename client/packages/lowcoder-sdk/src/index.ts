@@ -5,4 +5,6 @@ import * as sdk from "../../lowcoder";
 export * from "../../lowcoder";
 import { bootstrap } from "../../lowcoder/app";
 
+export bootstrap;
+
 window.$lowcoder_sdk = sdk;
