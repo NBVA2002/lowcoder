@@ -10,7 +10,7 @@ import {
   InnerGrid,
 } from "../containerComp/containerView";
 import { TriContainerViewProps } from "../triContainerComp/triContainerCompBuilder";
-import { Coolshape } from "coolshapes-react";
+import { Coolshape } from "coolshapes-react1";
 
 const getStyle = (style: ContainerStyleType) => {
   return css`

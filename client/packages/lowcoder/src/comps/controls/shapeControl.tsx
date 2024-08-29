@@ -4,7 +4,7 @@ import {
   iconWidgetClass,
 } from "base/codeEditor/extensions/iconExtension";
 import { i18nObjs, trans } from "i18n";
-import { Coolshape } from "coolshapes-react";
+import { Coolshape } from "coolshapes-react1";
 import {
   AbstractComp,
   CompAction,
